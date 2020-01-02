@@ -1,0 +1,45 @@
+backend:
+  name: git-gateway
+  branch: master
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Type", name: "type", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "metaDescription", widget: "string" }
+      - { label: "Post Image", name: "postImage", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "copy"
+    label: "Copy"
+    files:
+      - file: "content/copy/about__bio.md"
+        label: "About Bio"
+        name: "about__bio"
+        fields:
+          - { label: "Type", name: "type", widget: "hidden", default: "copy" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Post Image", name: "postImage", widget: "image" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "content/copy/homepage__about.md"
+        label: "Homepage Bio"
+        name: "homepage__bio"
+        fields:
+          - { label: "Type", name: "type", widget: "hidden", default: "copy" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Post Image", name: "postImage", widget: "image" }
+          - { label: "Body", name: "body", widget: "markdown" }

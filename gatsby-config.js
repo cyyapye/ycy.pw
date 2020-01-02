@@ -117,6 +117,12 @@ module.exports = {
         exclude: ['/success'],
         cookieDomain: "tyra-starter.netlify.com",
       }
+    },
+    {
+      resolve: 'gatsby-plugin-netlify-cms',
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
+      },
     }
   ]
 }
