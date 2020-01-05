@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
     navbarLinks: [
-      {to: "/makeup", name: "Makeup"},
-      {to: "/lifestyle", name: "Lifestyle"},
+      // {to: "/makeup", name: "Makeup"},
+      // {to: "/lifestyle", name: "Lifestyle"},
       {to: "/blog", name: "blog"},
     ],
-    title: "TYRA",
-    description: "Tyra is a fast, feminine, and chic Gatsby.js theme.",
-    siteUrl: "https://tyra-starter.netlify.com",
-    homepageHeader: "Welcome to Your New Blog",
-    homepageAbout: "Tyra is a modern, sleek and feminine Gatsby.js theme. Easily create a beautiful and fast blog and draw attention to your stellar content.",
+    title: "Ye",
+    description: "Ye",
+    siteUrl: "https://ycy.pw",
+    homepageHeader: "Welcome to Ye's Blog",
+    homepageAbout: "I'm Ye. When not working at BlackBerry Cylance, I like to read, think, and write about software and management.",
     mailChimpUrl: "https://mailchimp.com",
     mailChimpToken: "MAILCHIMP TOKEN HERE",
     youtube: "", // YOUR YOUTUBE PROFILE HERE
@@ -79,6 +79,14 @@ module.exports = {
       },
     },
     {
+      // keep as first gatsby-source-filesystem plugin for gatsby image support
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/img`,
+        name: 'uploads',
+      },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content`,
@@ -89,11 +97,23 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          'gatsby-remark-copy-linked-files',
+          {
+            resolve: 'gatsby-remark-relative-images',
+            options: {
+              name: 'uploads',
+            },
+          },
+          // 'gatsby-remark-copy-linked-files',
           {
             resolve: 'gatsby-remark-images',
             options: {
               maxWidth: 1400,
+            },
+          },
+          {
+            resolve: 'gatsby-remark-copy-linked-files',
+            options: {
+              destinationDir: 'static',
             },
           },
         ],
@@ -123,6 +143,7 @@ module.exports = {
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
-    }
+    },
+    'gatsby-plugin-netlify', // make sure to keep it last in the array
   ]
 }
