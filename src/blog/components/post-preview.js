@@ -18,7 +18,6 @@ export default (props) => (
       </span>
       <div className="mv3 mb5-ns flex justify-between">
         <div className="db f6 silver ttu tracked sans-serif">{props.date}</div>
-        <div className="db f6 silver ttu tracked sans-serif">TAGGED: {props.category}</div>
       </div>
       <div className="serif f4 lh-copy">{props.description}</div>
     </div>

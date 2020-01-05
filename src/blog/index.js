@@ -31,7 +31,6 @@ export default class BlogIndex extends React.Component {
               slug={node.fields.slug}
               title={node.frontmatter.title}
               date={node.frontmatter.date}
-              category={node.frontmatter.category}
               description={node.frontmatter.metaDescription} />
           ))}
           <div className="pv5 flex w-100">
@@ -64,7 +63,6 @@ export const blogListQuery = graphql`
           frontmatter {
             title
             date(formatString: "MMM Do YYYY")
-            category
             metaDescription
             postImage {
               childImageSharp {

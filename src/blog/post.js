@@ -9,10 +9,8 @@ import { graphql } from 'gatsby';
 
 export default ({location, data }) => {
   const {
-    category,
     date,
     dateOriginal,
-    author,
     title,
     metaDescription
   } = data.post.frontmatter;
@@ -24,12 +22,11 @@ export default ({location, data }) => {
         title={title}
         date={dateOriginal}
         description={metaDescription}
-        author={author}
         image={data.post.frontmatter.postImage.childImageSharp.original.src} />
       <MetaSeo
         title={title}
         description={metaDescription} />
-      <Hero author={author} date={date} category={category} title={title} />
+      <Hero date={date} title={title} />
       <Body
         content={content}
         description={metaDescription}
@@ -51,8 +48,6 @@ export const query = graphql`
       frontmatter {
         date(formatString: "MMM Do, YYYY")
         dateOriginal: date
-        category
-        author
         title
         metaDescription
         postImage {
