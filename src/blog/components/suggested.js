@@ -17,9 +17,11 @@ export default props => (
             filter: {frontmatter: {type: {eq: "post"}}}) {
             edges {
               node {
+                fields {
+                  slug
+                }
                 frontmatter {
                   title
-                  slug
                   metaDescription
                   postImage {
                     childImageSharp {
@@ -36,7 +38,7 @@ export default props => (
       `}
       render={data => data.allMarkdownRemark.edges.map(({ node }) => (
         <div className="w-100 mw6 tc mb4">
-          <Link to={node.frontmatter.slug}>
+          <Link to={node.fields.slug}>
             <Img
               className="h5"
               fluid={node.frontmatter.postImage.childImageSharp.fluid}
@@ -44,7 +46,7 @@ export default props => (
           </Link>
           <Link
             className="f4 serif tc dib pv2 ph3 display dark-gray no-underline"
-            to={node.frontmatter.slug}>
+            to={node.fields.slug}>
             {node.frontmatter.title}
           </Link>
         </div>

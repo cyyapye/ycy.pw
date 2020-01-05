@@ -14,14 +14,13 @@ export default ({location, data }) => {
     dateOriginal,
     author,
     title,
-    slug,
     metaDescription
   } = data.post.frontmatter;
   const content = data.post.html;
   return (
     <Layout>
       <Seo
-        slug={slug}
+        slug={data.post.fields.slug}
         title={title}
         date={dateOriginal}
         description={metaDescription}
@@ -44,8 +43,11 @@ export default ({location, data }) => {
 
 export const query = graphql`
   query($slug: String!) {
-    post: markdownRemark(frontmatter: {slug: {eq: $slug}}) {
+    post: markdownRemark(fields: {slug: {eq: $slug}}) {
       html
+      fields {
+        slug
+      }
       frontmatter {
         date(formatString: "MMM Do, YYYY")
         dateOriginal: date
@@ -53,7 +55,6 @@ export const query = graphql`
         author
         title
         metaDescription
-        slug
         postImage {
           childImageSharp {
             original {
@@ -66,7 +67,7 @@ export const query = graphql`
         }
       }
     }
-    date: markdownRemark(frontmatter: {slug: {eq: $slug}}) {
+    date: markdownRemark(fields: {slug: {eq: $slug}}) {
       frontmatter {
         date
       }
