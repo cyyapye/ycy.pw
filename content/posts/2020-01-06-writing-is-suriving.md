@@ -34,16 +34,6 @@ The world is increasingly more networked. As direct channels are formed between 
 
 With more people gaining reach, there’s a risk of the rest of us who are anonymous getting marginalized. As civilization becomes more complexy, we evolved from hunter-gatherers to a networked civilization. A vertex (a dot) with a low degree (small number of connections) doesn't cut it any more.
 
-[https://twitter.com/PlanMaestro/status/1211327203381637127?s=20](https://twitter.com/PlanMaestro/status/1211327203381637127?s=20)
-
-Anonymity doesn't mean completely unknown. No one's completely alone. You at least have your family, neighbors, baristas, friends, and coworkers. But outside of these circles if you’re unknown, well, welcome to the club.
-
-But there’s a cost to anonymity. Imagine you’re trying to pick a restaurant to visit in a foreign neighborhood. You pull up yelp and sort by most reviewed. Do you know what restaurants are on the last page? Heck, there isn’t even an option to sort by least reviewed. This is how the world chooses who to work with on new opportunities. The Pareto principle dictates the bulk of the opportunities go to the top few. The rest of us are left with breadcrumbs.
-
-So, don’t be the restaurant on the last page. Start writing to build up your network.The world is increasingly more networked. As direct channels are formed between us, the cost to reach the masses is now affordable to anyone on the Internet. Before the Internet, you’d have to buy a radio or TV ad to reach millions. Now, you can just throw a chair off your balcony.
-
-With more people gaining reach, there’s a risk of the rest of us who are anonymous getting marginalized. As civilization becomes more complexy, we evolved from hunter-gatherers to a networked civilization. A vertex (a dot) with a low degree (small number of connections) doesn't cut it any more.
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The last Chartstravaganza of the decade! … civilization advances<br><br>(<a href="https://twitter.com/necsi?ref_src=twsrc%5Etfw">@necsi</a>) <a href="https://t.co/gFBhQd7MAQ">pic.twitter.com/gFBhQd7MAQ</a></p>&mdash; Plan Maestro (@PlanMaestro) <a href="https://twitter.com/PlanMaestro/status/1211327203381637127?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Anonymity doesn't mean completely unknown. No one's completely alone. You at least have your family, neighbors, baristas, friends, and coworkers. But outside of these circles if you’re unknown, well, welcome to the club.
@@ -54,13 +44,7 @@ So, don’t be the restaurant on the last page. Start writing to build up your n
 
 ### Build a trust battery grid
 
-I first heard of the trust battery in [Shane Parish’s interview with Tobi Lutke](https://www.notion.so/cyyapye/Writing-is-surviving-395fd1653287403880b63e7dcd2e46b1#14b9d92012c3413784e3fd80ca7714e1), Shopify CEO and founder. Tobi described the trust battery as a concept to represent the gradient of trust between two people. You start out with say a 50% trust and the battery charges from there as you deliver on your promises. Once the battery is fully charged, you gain full autonomy. But like a real battery, as you fail to keep on your commitments the battery starts to drain.
-
-When you start writing, you’re planting your flag on the Internet. Staking a piece of the influence pie. But pie is the wrong word because influence is not a zero-sum game. No one needs to lose influence for you to gain influence. You gain influence as you gain readers. And your trust battery for each reader starts at maybe 20%.
-
-As your reach widens and as you continue to deliver, you start to build a trust battery grid. This trust battery grid creates a form of prestige. Not unlike the prestige of attending ivy leagues or working at FAANG. In fact, I’d venture to say the prestige gained from a trust battery grid is more valuable and highly prized because no one else has the prestige you gained. It’s one-of-a-kind, bespoke prestige. You’re known for being you. Not as a Stanford dropout. Not as an ex-Googler. But uniquely you.
-
-That’s not to say the prestige from top schools and companies don’t matter. They matter a lot. According to Will Larson, companies still largely [start sourcing hires from FAANG and elite schools](https://www.notion.so/cyyapye/Writing-is-surviving-395fd1653287403880b63e7dcd2e46b1#7b4597acd7c241b39e337ed3021d51ea). But if you don’t have those credentials, you need to think differently. I first heard of the trust battery in [Shane Parish’s interview with Tobi Lutke](https://www.notion.so/cyyapye/Writing-is-surviving-395fd1653287403880b63e7dcd2e46b1#14b9d92012c3413784e3fd80ca7714e1), Shopify CEO and founder. Tobi described the trust battery as a concept to represent the gradient of trust between two people. You start out with say a 50% trust and the battery charges from there as you deliver on your promises. Once the battery is fully charged, you gain full autonomy. But like a real battery, as you fail to keep on your commitments the battery starts to drain.
+I first heard of the trust battery in [Shane Parish’s interview with Tobi Lutke](https://fs.blog/tobi-lutke/), Shopify CEO and founder. Tobi described the trust battery as a concept to represent the gradient of trust between two people. You start out with say a 50% trust and the battery charges from there as you deliver on your promises. Once the battery is fully charged, you gain full autonomy. But like a real battery, as you fail to keep on your commitments the battery starts to drain.
 
 When you start writing, you’re planting your flag on the Internet. Staking a piece of the influence pie. But pie is the wrong word because influence is not a zero-sum game. No one needs to lose influence for you to gain influence. You gain influence as you gain readers. And your trust battery for each reader starts at maybe 20%.
 
