@@ -54,6 +54,8 @@ Naval Ravikant distills this down to an eight-word truism.
 
 <https://twitter.com/naval/status/797865441783709696?s=20>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No one can compete with you on being you.<br><br>Most of life is a search for who and what needs you the most.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/797865441783709696?ref_src=twsrc%5Etfw">November 13, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><blockquote class="twitter-tweet"><p lang="en" dir="ltr">No one can compete with you on being you.<br><br>Most of life is a search for who and what needs you the most.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/797865441783709696?ref_src=twsrc%5Etfw">November 13, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 If you're able to develop a unique insight consistently, you then become the only source of such insights. It's hard work. You'll have to read broadly and deeply to come into such insights. But that's how you provide value. Don't worry about being right 100% of the time. They are after all just opinions. Most opinions implicitly come with what Nassim Taleb calls "boctaoe" - but of course there are obvious exceptions.
 
 In fact, it's okay if you get things wrong. So long as you're willing to change your mind when new facts are presented to you. Staking your reputation on your opinions and your readiness to be proven wrong are what gains you respect. This creates a flywheel effect that further cements your reputation as a learner.
