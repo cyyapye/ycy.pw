@@ -8,15 +8,16 @@ module.exports = {
     title: "Ye",
     description: "Ye",
     siteUrl: "https://ycy.pw",
-    homepageHeader: "Welcome to Ye's Blog",
-    homepageAbout: "I'm Ye. When not working at BlackBerry Cylance, I like to read, think, and write about software and management.",
-    mailChimpUrl: "https://mailchimp.com",
-    mailChimpToken: "MAILCHIMP TOKEN HERE",
+    homepageHeader: "Hi There!",
+    homepageAbout: "I'm Ye. I like to read, think, and write about software and management. When I'm not reading and writing, I work at BlackBerry Cylance.",
+    mailChimpUrl: "https://ycy.us4.list-manage.com/subscribe/post?u=1900682f18863edf18f4891e3&amp;id=1fae966348",
+    mailChimpToken: "b_1900682f18863edf18f4891e3_1fae966348",
     youtube: "", // YOUR YOUTUBE PROFILE HERE
-    github: "", // YOUR GITHUB PROFILE HERE 
+    github: "https://github.com/cyyapye", // YOUR GITHUB PROFILE HERE 
     pinterest: "", // YOUR PINTEREST PROFILE HERE
+    linkedin: "https://www.linkedin.com/in/chengye",
     facebook: "", // YOUR FACEBOOK PROFILE HERE
-    twitter: "", // YOUR TWITTER PROFILE HERE
+    twitter: "https://twitter.com/cyyapye", // YOUR TWITTER PROFILE HERE
   },
   plugins: [
     'gatsby-plugin-sitemap',

@@ -5,7 +5,8 @@ import {
   FaFacebookF,
   FaTwitter,
   FaYoutube,
-  FaGithub
+  FaGithub,
+  FaLinkedin,
 } from 'react-icons/fa';
 import 'tachyons';
 
@@ -22,6 +23,7 @@ export default () => (
             facebook
             twitter
             youtube
+            linkedin
             github
           }
         }
@@ -70,6 +72,15 @@ export default () => (
                 </a>
               )}
 
+              {data.site.siteMetadata.linkedin && (
+                <a
+                  className="near-white"
+                  href={data.site.siteMetadata.linkedin}
+                >
+                  <FaLinkedin />
+                </a>
+              )}
+
               {data.site.siteMetadata.twitter && (
                 <a className="near-white" href={data.site.siteMetadata.twitter}>
                   <FaTwitter />
@@ -84,22 +95,15 @@ export default () => (
           </div>
           <div className="flex flex-column">
             <span className="near-white sans-serif f5 tracked mb3 db">MORE ON {data.site.siteMetadata.siteTitle}</span>
-            <Link to="/about" className="near-white sans-serif f5 tracked pv1 db">ABOUT US</Link>
-            <a href={data.site.siteMetadata.mailChimpUrl} className="near-white sans-serif f5 tracked pv1 db">NEWS LETTER</a>
+            <Link to="/about" className="near-white sans-serif f5 tracked pv1 db">ABOUT</Link>
+            <a href={data.site.siteMetadata.mailChimpUrl} className="near-white sans-serif f5 tracked pv1 db">NEWSLETTER</a>
           </div>
         </div>
         <div className="w-100 mw9 center silver mb3">
           <div className="w-100 bb b--mid-gray mv3"></div>
           <div className="flex w-100 mw6 items-center justify-center justify-start-ns">
-            <a href="/sitemap.xml" className="silver sans-serif f5 tracked pv1 db mh1">SITEMAP</a>
-            <span className="mh1">|</span>
             <Link to="/privacy" className="silver sans-serif f5 tracked pv1 db mh1">PRIVACY</Link>
-            <span className="mh1">|</span>
-            <a href="https://github.com/madelyneriksen/gatsby-starter-tyra" className="silver sans-serif f5 tracked pv1 db mh1">THEME</a>
           </div>
-        </div>
-        <div className="w-100 mw9 silver center sans-serif f6">
-          <p>Tyra Theme (C) 2018 by Madelyn Eriksen under terms of the "MIT" software license.</p>
         </div>
       </footer>
     )} />

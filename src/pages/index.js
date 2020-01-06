@@ -29,7 +29,6 @@ export default ({ data }) => {
         ))}
       </div>
       <About />
-      <Bio />
     </Layout>
   )
 }
