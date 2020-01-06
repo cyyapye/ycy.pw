@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 type: post
-title: Writing is Suriving
+title: Writing is Surviving
 date: 2020-01-06T07:12:38.313Z
 metaDescription: Why I decided to start writing after decades of lurking in the shadows.
 postImage: /img/aaron-burden-y02jex_b0o0-unsplash.jpg
@@ -40,8 +40,6 @@ As your reach widens and as you continue to deliver, you start to build a trust 
 
 That’s not to say the prestige from top schools and companies don’t matter. They matter a lot. According to Will Larson, companies still largely start [sourcing hires from FAANG and elite schools](https://lethain.com/forty-year-career/). But if you don’t have those credentials, you need to think differently. 
 
-
-
 ### Stake your reputation in public
 
 So, how do you think differently? Simple. Just share your opinions publicly. Your opinions are what readers come for. Not your quoting of others'. Exploit your uniqueness to the fullest.
@@ -72,8 +70,7 @@ Truth of the matter is *paratus fortuna iuvat*. Luck favors the prepared.
 
 Back in 2008, during the global financial crisis, Goldman Sachs offered Warren Buffett a deal to invest $5B in preferred stock with a 10% dividend and another $5B in warrants to buy the common stock at $115 per share. He basically got the warrants for free. Why did Goldman seek out Buffett specifically? Because Buffett's reputation means a vote of confidence so influential it carries more weight than everyone except for the US government. Was he just lucky with Goldman? Not at all. When Goldman called, he negotiated for the free warrants because he knew what his investment meant. Buffett spent a lifetime preparing for exactly this sort of opportunities. Sure. In order to play, you needed to have capital at hand. But Buffett wasn't the only one with that kind of capital. It was his reputation that Goldman needed.
 
-> Look If you had
-> One shot
+> Look If you had One shot
 > Or one opportunity
 > To seize everything you ever wanted
 > In one moment
