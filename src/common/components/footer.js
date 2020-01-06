@@ -99,12 +99,6 @@ export default () => (
             <a href={data.site.siteMetadata.mailChimpUrl} className="near-white sans-serif f5 tracked pv1 db">NEWSLETTER</a>
           </div>
         </div>
-        <div className="w-100 mw9 center silver mb3">
-          <div className="w-100 bb b--mid-gray mv3"></div>
-          <div className="flex w-100 mw6 items-center justify-center justify-start-ns">
-            <Link to="/privacy" className="silver sans-serif f5 tracked pv1 db mh1">PRIVACY</Link>
-          </div>
-        </div>
       </footer>
     )} />
 )
