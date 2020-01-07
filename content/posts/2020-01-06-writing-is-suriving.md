@@ -19,7 +19,6 @@ At the end of the last decade, I finally understood why I can no longer lurk in 
 - Work in public
 
 ### Anonymity begets mediocrity
-
 The world is increasingly more networked. As direct channels are formed between us, the cost to reach the masses is now affordable to anyone on the Internet. Before the Internet, you’d have to buy a radio or TV ad to reach millions. Now, you can just throw a chair off your balcony.
 
 With more people gaining reach, there’s a risk of the rest of us who are anonymous getting marginalized. As civilization becomes more complexy, we evolved from hunter-gatherers to a networked civilization. A vertex (a dot) with a low degree (small number of connections) doesn't cut it any more.
@@ -33,7 +32,6 @@ But there’s a cost to anonymity. Imagine you’re trying to pick a restaurant 
 So, don’t be the restaurant on the last page. Start writing to build up your network.
 
 ### Build a trust battery grid
-
 I first heard of the trust battery in [Shane Parish’s interview with Tobi Lutke](https://fs.blog/tobi-lutke/), Shopify CEO and founder. Tobi described the trust battery as a concept to represent the gradient of trust between two people. You start out with say a 50% trust and the battery charges from there as you deliver on your promises. Once the battery is fully charged, you gain full autonomy. But like a real battery, as you fail to keep on your commitments the battery starts to drain.
 
 When you start writing, you’re planting your flag on the Internet. Staking a piece of the influence pie. But pie is the wrong word because influence is not a zero-sum game. No one needs to lose influence for you to gain influence. You gain influence as you gain readers. And your trust battery for each reader starts at maybe 20%.
@@ -48,7 +46,8 @@ So, how do you think differently? Simple. Just share your opinions publicly. You
 
 I find David Sacks' piece on [creating category leadership in SaaS](https://medium.com/craft-ventures/the-one-who-defines-the-category-wins-the-category-245fee85bfbb) applicable to individuals as well. Fortunately, all 7.8 billion of us are born with a unique mind. It should come naturally for us to just be ourselves. Think from your point of view. If you're able to provide a unique point of view, then you'd have defined a whole new category because no one else sees it like you do.
 
-> It makes intuitive sense that the startup that defines a new SaaS category will be perceived as the early category leader. It will thus be the beneficiary of investors, talent and customers all seeking to coalesce around an early leader. - David Sacks
+> It makes intuitive sense that the startup that defines a new SaaS category will be perceived as the early category leader. It will thus be the beneficiary of investors, talent and customers all seeking to coalesce around an early leader.  
+> *\- David Sacks*
 
 Naval Ravikant distills this down to an eight-word truism.
 
@@ -64,7 +63,6 @@ In fact, it's okay if you get things wrong. So long as you're willing to change 
 > *\- John Maynard Keynes*
 
 ### Prepare for opportunities
-
 People often to refer to luck as unexpected opportunities that happen to fall in your lap. This is true to some extent in the sense that you couldn't have known when the opportunity would come.
 
 Truth of the matter is *paratus fortuna iuvat*. Luck favors the prepared.
@@ -88,7 +86,6 @@ Your writing accumulates to form a body of work that builds up your reputation. 
 > *\- Eminem, Lose Yourself*
 
 ### Write to learn
-
 If my sole goal of writing is to build up a network, I figured I'd probably give up after 2 - 3 posts because it takes a while to see traction. So, there has to be a selfish reason for me to continue writing. I can't think of a better reason than to learn.
 
 Writing forces you to fill in the gaps and reconcile inconsistencies within your mental model. Writing is not the same as taking notes. Taking notes is just offloading short term memory to a device. Writing is explaining. You can't explain what you don't fully understand.
@@ -103,7 +100,6 @@ Richard Feynman developed a technique to learn new concepts effectively. The Fey
 Because the technique requires you to explain in your own words, you have to fully grok the concept to be able to write it down. This is the point when it sticks!
 
 ### Run towards my fear
-
 This last reason is more personal and may not apply to you. I have always guarded my privacy ferociously. I'd believed that successful but unknown is better than successful and famous. This is why I never had (and still don't have) a Friendster, Myspace, Facebook or Instagram account. I have a Twitter lurker account because Twitter is a rich fountain of pithy insights if you can sift through the animosity. I only signed up for a real Twitter account April last year. But I'm still lurking.
 
 Why do I lurk? Impostor syndrome.
@@ -111,7 +107,7 @@ Why do I lurk? Impostor syndrome.
 Jeff Atwood calls this "[fear of sucking](https://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead/)".
 
 > Mostly, I think it's the fear that gets us, in all its forms. Fear of not achieving. Fear of not keeping up. Fear of looking dumb. Fear of being inadequate. Fear of being exposed. Fear of failure. The only thing preventing us from being awesome is our own fear of sucking.  
-> - Jeff Atwood
+> *\- Jeff Atwood*
 
 My fear is irrational. I look dumb a lot in front of my coworkers. But I'm afraid of being caught a fraud in public.
 
@@ -120,7 +116,6 @@ So, how did I get over this fear? Survival.
 If I don't write, eventually I'll be marginalized in a connected civilization. And that's a threat to my family's survival. That scares me more than anything. And the best way to face fear is to run towards it. Thus, I write or die trying.
 
 ### Work in public
-
 Producing value is hard. 100x harder than consuming. Because you have to be original. You have to come up with shit. And you have to keep coming up with shit all the time. It takes grit. I have mad respect for people with persistence. My wife told me about a guy she corresponded with, Jeff Jonas, [who never missed a single Ironman at the age of 55](https://www.triathlete.com/2017/11/lifestyle/meet-genius-whos-raced-every-ironman-planet_308094). Blew my mind.
 
 The thing is grit doesn't come easy for anyone. It looks easy. But it never is. The trick is to have a system to make it work.
