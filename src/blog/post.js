@@ -28,6 +28,7 @@ export default ({location, data }) => {
         description={metaDescription} />
       <Hero date={date} title={title} />
       <Body
+        title={title}
         content={content}
         description={metaDescription}
         image={data.post.frontmatter.postImage.childImageSharp.original.src}

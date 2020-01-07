@@ -14,6 +14,7 @@ export default props => (
       style={{gridArea: "content"}}
       dangerouslySetInnerHTML={{__html: props.content}} />
     <Sidebar
+      title={props.title}
       img={props.image}
       desc={props.description}
       location={props.location}

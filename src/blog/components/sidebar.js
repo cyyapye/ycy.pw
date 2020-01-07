@@ -1,5 +1,6 @@
 import React from 'react';
 import {
+  FaTwitter,
   FaPinterestP,
   FaFacebookF
 } from 'react-icons/fa';
@@ -9,7 +10,7 @@ import 'tachyons';
 
 
 export default (props) => {
-  let { desc, img, location } = props;
+  let { title, desc, img, location } = props;
   location = encodeURIComponent(location.pathname);
   desc = encodeURIComponent(desc);
   img = encodeURIComponent(img);
@@ -30,14 +31,11 @@ export default (props) => {
         <div className="dn db-l" style={{gridArea: "sidebar"}}>
           <div className="w3 bg-dark-gray flex flex-wrap" style={{position: "sticky", top: "4rem"}}>
             <a
-              href={`https://pinterest.com/pin/create/button/?url=${base + location}&description=${desc}&media=${base + img}`}
-              className="w-100 h3 flex items-center justify-center b near-white"><FaPinterestP /></a>
-            <a
-              href={`https://www.facebook.com/sharer/sharer.php?u=${base + location}`}
-              className="w-100 h3 flex items-center justify-center b near-white"><FaFacebookF /></a>
-            <a
-              href={`mailto:?&body=${base + location}`}
+              href={`mailto:?&body=${title + " " + base + location}`}
               className="w-100 h3 flex items-center justify-center b near-white"><FiMail /></a>
+            <a
+              href={`https://twitter.com/intent/tweet?text=${title}&url=${base + location}`}
+              className="w-100 h3 flex items-center justify-center b near-white"><FaTwitter /></a>
           </div>
         </div>
     )}} />
