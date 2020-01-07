@@ -6,10 +6,6 @@ date: 2020-01-06T07:12:38.313Z
 metaDescription: Why I decided to start writing after decades of lurking in the shadows.
 postImage: /img/csabi-elter-iidxznru2gy-unsplash.jpg
 ---
-# Writing is surviving
-
-Created: Jan 01, 2020 2:22 PM
-
 Privacy is like virginity. Once you give it up, there’s no undoing. This is why I’ve been content consuming what others produce all these years. At least that’s what I told myself.
 
 At the end of the last decade, I finally understood why I can no longer lurk in the shadows. I need to write. There’s a slew of reasons, but the most compelling is survival.
@@ -64,8 +60,7 @@ Andrew Chen at a16z has some [wonderful tips on writing](https://andrewchen.co/p
 
 In fact, it's okay if you get things wrong. So long as you're willing to change your mind when new facts are presented to you. Staking your reputation on your opinions and your readiness to be proven wrong are what gains you respect. This creates a flywheel effect that further cements your reputation as a learner.
 
-> When the facts change, I change my mind. What do you do, sir?
->
+> When the facts change, I change my mind. What do you do, sir?  
 > *\- John Maynard Keynes*
 
 ### Prepare for opportunities
@@ -82,15 +77,14 @@ You may think Buffett's an outlier. Fine. I present exhibit B. Semil Shah interv
 
 Your writing accumulates to form a body of work that builds up your reputation. This body of work also informs anyone about you better than any resume can. Let your work speak for itself. At some point, your reputation precedes you. When that happens, *semper paratus*.
 
-> Look
-> If you had
-> One shot
-> Or one opportunity
-> To seize everything you ever wanted
-> In one moment
-> Would you capture it
-> Or just let it slip?
->
+> Look  
+> If you had  
+> One shot  
+> Or one opportunity  
+> To seize everything you ever wanted  
+> In one moment  
+> Would you capture it  
+> Or just let it slip?  
 > *\- Eminem, Lose Yourself*
 
 ### Write to learn
@@ -116,7 +110,8 @@ Why do I lurk? Impostor syndrome.
 
 Jeff Atwood calls this "[fear of sucking](https://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead/)".
 
-> Mostly, I think it's the fear that gets us, in all its forms. Fear of not achieving. Fear of not keeping up. Fear of looking dumb. Fear of being inadequate. Fear of being exposed. Fear of failure. The only thing preventing us from being awesome is our own fear of sucking. - Jeff Atwood
+> Mostly, I think it's the fear that gets us, in all its forms. Fear of not achieving. Fear of not keeping up. Fear of looking dumb. Fear of being inadequate. Fear of being exposed. Fear of failure. The only thing preventing us from being awesome is our own fear of sucking.  
+> - Jeff Atwood
 
 My fear is irrational. I look dumb a lot in front of my coworkers. But I'm afraid of being caught a fraud in public.
 
@@ -138,8 +133,8 @@ Why a newsletter? It establishes a bidirectional channel with your readers. They
 
 There is actually a [psychological principle called consistency](https://www.influenceatwork.com/principles-of-persuasion/#consistency) that drives us to stick to our commitments.
 
-> Consistency is activated by looking for, and asking for, small initial commitments that can be made. In one famous set of studies, researchers found rather unsurprisingly that very few people would be willing to erect an unsightly wooden board on their front lawn to support a Drive Safely campaign in their neighborhood.
-> However in a similar neighborhood close by, four times as many homeowners indicated that they would be willing to erect this unsightly billboard. Why? Because ten days previously, they had agreed to place a small postcard in the front window of their homes that signaled their support for a Drive Safely campaign. That small card was the initial commitment that led to a 400% increase in a much bigger but still consistent change.
+> Consistency is activated by looking for, and asking for, small initial commitments that can be made. In one famous set of studies, researchers found rather unsurprisingly that very few people would be willing to erect an unsightly wooden board on their front lawn to support a Drive Safely campaign in their neighborhood.  
+> However in a similar neighborhood close by, four times as many homeowners indicated that they would be willing to erect this unsightly billboard. Why? Because ten days previously, they had agreed to place a small postcard in the front window of their homes that signaled their support for a Drive Safely campaign. That small card was the initial commitment that led to a 400% increase in a much bigger but still consistent change.  
 > *\- Influence at Work*
 
 So, I figured I can use the same trick on myself. This essay is my voluntary, active, and public initial written commitment to write weekly. Setting up the weekly newsletter will identify you, the readers I'm making this commitment to. This will serve as a forcing function to keep me consistent with my commitment.
