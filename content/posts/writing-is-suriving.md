@@ -23,7 +23,7 @@ The world is increasingly more networked. As direct channels are formed between 
 
 With more people gaining reach, there’s a risk of the rest of us who are anonymous getting marginalized. As civilization becomes more complexy, we evolved from hunter-gatherers to a networked civilization. A vertex (a dot) with a low degree (small number of connections) doesn't cut it any more.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The last Chartstravaganza of the decade! … civilization advances<br><br>(<a href="https://twitter.com/necsi?ref_src=twsrc%5Etfw">@necsi</a>) <a href="https://t.co/gFBhQd7MAQ">pic.twitter.com/gFBhQd7MAQ</a></p>&mdash; Plan Maestro (@PlanMaestro) <a href="https://twitter.com/PlanMaestro/status/1211327203381637127?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The last Chartstravaganza of the decade! … civilization advances<br><br>(<a href="https://twitter.com/necsi?ref_src=twsrc%5Etfw">@necsi</a>) <a href="https://t.co/gFBhQd7MAQ">pic.twitter.com/gFBhQd7MAQ</a></p>&mdash; Plan Maestro (@PlanMaestro) <a href="https://twitter.com/PlanMaestro/status/1211327203381637127?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote>
 
 Anonymity doesn't mean completely unknown. No one's completely alone. You at least have your family, neighbors, baristas, friends, and coworkers. But outside of these circles if you’re unknown, well, welcome to the club.
 
@@ -51,7 +51,7 @@ I find David Sacks' piece on [creating category leadership in SaaS](https://medi
 
 Naval Ravikant distills this down to an eight-word truism.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No one can compete with you on being you.<br><br>Most of life is a search for who and what needs you the most.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/797865441783709696?ref_src=twsrc%5Etfw">November 13, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No one can compete with you on being you.<br><br>Most of life is a search for who and what needs you the most.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/797865441783709696?ref_src=twsrc%5Etfw">November 13, 2016</a></blockquote>
 
 If you're able to develop a unique insight consistently, you then become the only source of such insights. It's hard work. You'll have to read broadly and deeply to come into such insights. But that's how you provide value. Don't worry about being right 100% of the time. They are after all just opinions. Most opinions implicitly come with what Nassim Taleb calls "boctaoe" - but of course there are obvious exceptions.
 
@@ -71,7 +71,7 @@ Back in 2008, during the global financial crisis, Goldman Sachs offered Warren B
 
 You may think Buffett's an outlier. Fine. I present exhibit B. Semil Shah interviewed with 120 companies for a job before he was known. [120 "no"s and he still didn't get a job](https://www.quora.com/q/qkcjacsfdbtkmkfj/You-Can-Never-Step-In-The-Same-River-Twice). But the dude kept on working his ass off. It wasn't until he started writing and helping folks out that he finally got noticed.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A few ppl lately have asked me “how did you get to know people in valley?” my response over email tonight: <a href="http://t.co/g5laj9Y2VT">pic.twitter.com/g5laj9Y2VT</a></p>&mdash; Semil (@semil) <a href="https://twitter.com/semil/status/541870697837256704?ref_src=twsrc%5Etfw">December 8, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A few ppl lately have asked me “how did you get to know people in valley?” my response over email tonight: <a href="http://t.co/g5laj9Y2VT">pic.twitter.com/g5laj9Y2VT</a></p>&mdash; Semil (@semil) <a href="https://twitter.com/semil/status/541870697837256704?ref_src=twsrc%5Etfw">December 8, 2014</a></blockquote>
 
 Your writing accumulates to form a body of work that builds up your reputation. This body of work also informs anyone about you better than any resume can. Let your work speak for itself. At some point, your reputation precedes you. When that happens, *semper paratus*.
 
