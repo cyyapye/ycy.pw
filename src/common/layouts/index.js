@@ -10,6 +10,7 @@ export default (props) => (
   <React.Fragment>
     <Helmet>
       <body className="bg-near-white mid-gray" />
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </Helmet>
     <Navbar />
     {props.children}
