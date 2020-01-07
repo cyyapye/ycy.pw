@@ -6,17 +6,11 @@ date: 2020-01-06T07:12:38.313Z
 metaDescription: Why I decided to start writing after decades of lurking in the shadows.
 postImage: /img/csabi-elter-iidxznru2gy-unsplash.jpg
 ---
+# Writing is surviving
+
+Created: Jan 01, 2020 2:22 PM
+
 Privacy is like virginity. Once you give it up, there’s no undoing. This is why I’ve been content consuming what others produce all these years. At least that’s what I told myself.
-
-At the end of the last decade, I finally understood why I can no longer lurk in the shadows. I need to write. There’s a slew of reasons, but the most compelling is survival.
-
-- Anonymity begets mediocrity
-- Build a trust battery grid
-- Stake your reputation in public
-- Prepare for opportunities
-- Write to learn
-- Run towards my fear
-- Work in publicPrivacy is like virginity. Once you give it up, there’s no undoing. This is why I’ve been content consuming what others produce all these years. At least that’s what I told myself.
 
 At the end of the last decade, I finally understood why I can no longer lurk in the shadows. I need to write. There’s a slew of reasons, but the most compelling is survival.
 
@@ -50,7 +44,7 @@ When you start writing, you’re planting your flag on the Internet. Staking a p
 
 As your reach widens and as you continue to deliver, you start to build a trust battery grid. This trust battery grid creates a form of prestige. Not unlike the prestige of attending ivy leagues or working at FAANG. In fact, I’d venture to say the prestige gained from a trust battery grid is more valuable and highly prized because no one else has the prestige you gained. It’s one-of-a-kind, bespoke prestige. You’re known for being you. Not as a Stanford dropout. Not as an ex-Googler. But uniquely you.
 
-That’s not to say the prestige from top schools and companies don’t matter. They matter a lot. According to Will Larson, companies still largely [start sourcing hires from FAANG and elite schools](https://www.notion.so/cyyapye/Writing-is-surviving-395fd1653287403880b63e7dcd2e46b1#7b4597acd7c241b39e337ed3021d51ea). But if you don’t have those credentials, you need to think differently. 
+That’s not to say the prestige from top schools and companies don’t matter. They matter a lot. According to Will Larson, companies still largely [start sourcing hires from FAANG and elite schools](https://lethain.com/forty-year-career/). But if you don’t have those credentials, you need to think differently. 
 
 ### Stake your reputation in public
 
@@ -58,19 +52,13 @@ So, how do you think differently? Simple. Just share your opinions publicly. You
 
 I find David Sacks' piece on [creating category leadership in SaaS](https://medium.com/craft-ventures/the-one-who-defines-the-category-wins-the-category-245fee85bfbb) applicable to individuals as well. Fortunately, all 7.8 billion of us are born with a unique mind. It should come naturally for us to just be ourselves. Think from your point of view. If you're able to provide a unique point of view, then you'd have defined a whole new category because no one else sees it like you do.
 
-> It makes intuitive sense that the startup that defines a new SaaS category will be perceived as the early category leader. It will thus be the beneficiary of investors, talent and customers all seeking to coalesce around an early leader.
->
-> *\- David Sacks*
+> It makes intuitive sense that the startup that defines a new SaaS category will be perceived as the early category leader. It will thus be the beneficiary of investors, talent and customers all seeking to coalesce around an early leader. - David Sacks
 
 Naval Ravikant distills this down to an eight-word truism.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">No one can compete with you on being you.<br><br>Most of life is a search for who and what needs you the most.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/797865441783709696?ref_src=twsrc%5Etfw">November 13, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 If you're able to develop a unique insight consistently, you then become the only source of such insights. It's hard work. You'll have to read broadly and deeply to come into such insights. But that's how you provide value. Don't worry about being right 100% of the time. They are after all just opinions. Most opinions implicitly come with what Nassim Taleb calls "boctaoe" - but of course there are obvious exceptions.
-
-Andrew Chen at a16z has some [wonderful tips on writing](https://andrewchen.co/professional-blogging/). My takeaway is: Just. Write. Every. Week.
-
-In fact, it's okay if you get things wrong. So long as you're willing to change your mind when new facts are presented to you. Staking your reputation on your opinions and your readiness to be proven wrong are what gains you respect. This creates a flywheel effect that further cements your reputation as a learner.If you're able to develop a unique insight consistently, you then become the only source of such insights. It's hard work. You'll have to read broadly and deeply to come into such insights. But that's how you provide value. Don't worry about being right 100% of the time. They are after all just opinions. Most opinions implicitly come with what Nassim Taleb calls "boctaoe" - but of course there are obvious exceptions.
 
 Andrew Chen at a16z has some [wonderful tips on writing](https://andrewchen.co/professional-blogging/). My takeaway is: Just. Write. Every. Week.
 
@@ -88,17 +76,15 @@ Truth of the matter is *paratus fortuna iuvat*. Luck favors the prepared.
 
 Back in 2008, during the global financial crisis, Goldman Sachs offered Warren Buffett a deal to invest $5B in preferred stock with a 10% dividend and another $5B in warrants to buy the common stock at $115 per share. He basically got the warrants for free. Why did Goldman seek out Buffett specifically? Because Buffett's reputation means a vote of confidence so influential it carries more weight than everyone except for the US government. Was he just lucky with Goldman? Not at all. When Goldman called, he negotiated for the free warrants because he knew what his investment meant. Buffett spent a lifetime preparing for exactly this sort of opportunities. Sure. In order to play, you needed to have capital at hand. But Buffett wasn't the only one with that kind of capital. It was his reputation that Goldman needed.
 
-You may think Buffett's an outlier. Fine. I present exhibit B. Semil Shah interviewed with 120 companies for a job before he was known. [120 "no"s and he still didn't get a job](https://www.notion.so/cyyapye/Writing-is-surviving-395fd1653287403880b63e7dcd2e46b1#67838c51f2294a708b831ff4eba5a419). But the dude kept on working his ass off. It wasn't until he started writing and helping folks out that he finally got noticed.People often to refer to luck as unexpected opportunities that happen to fall in your lap. This is true to some extent in the sense that you couldn't have known when the opportunity would come.
-
-Truth of the matter is *paratus fortuna iuvat*. Luck favors the prepared.
-
-Back in 2008, during the global financial crisis, Goldman Sachs offered Warren Buffett a deal to invest $5B in preferred stock with a 10% dividend and another $5B in warrants to buy the common stock at $115 per share. He basically got the warrants for free. Why did Goldman seek out Buffett specifically? Because Buffett's reputation means a vote of confidence so influential it carries more weight than everyone except for the US government. Was he just lucky with Goldman? Not at all. When Goldman called, he negotiated for the free warrants because he knew what his investment meant. Buffett spent a lifetime preparing for exactly this sort of opportunities. Sure. In order to play, you needed to have capital at hand. But Buffett wasn't the only one with that kind of capital. It was his reputation that Goldman needed.
-
-You may think Buffett's an outlier. Fine. I present exhibit B. Semil Shah interviewed with 120 companies for a job before he was known. [120 "no"s and he still didn't get a job](https://www.notion.so/cyyapye/Writing-is-surviving-395fd1653287403880b63e7dcd2e46b1#67838c51f2294a708b831ff4eba5a419). But the dude kept on working his ass off. It wasn't until he started writing and helping folks out that he finally got noticed.
+You may think Buffett's an outlier. Fine. I present exhibit B. Semil Shah interviewed with 120 companies for a job before he was known. [120 "no"s and he still didn't get a job](https://www.quora.com/q/qkcjacsfdbtkmkfj/You-Can-Never-Step-In-The-Same-River-Twice). But the dude kept on working his ass off. It wasn't until he started writing and helping folks out that he finally got noticed.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A few ppl lately have asked me “how did you get to know people in valley?” my response over email tonight: <a href="http://t.co/g5laj9Y2VT">pic.twitter.com/g5laj9Y2VT</a></p>&mdash; Semil (@semil) <a href="https://twitter.com/semil/status/541870697837256704?ref_src=twsrc%5Etfw">December 8, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> Look If you had One shot
+Your writing accumulates to form a body of work that builds up your reputation. This body of work also informs anyone about you better than any resume can. Let your work speak for itself. At some point, your reputation precedes you. When that happens, *semper paratus*.
+
+> Look
+> If you had
+> One shot
 > Or one opportunity
 > To seize everything you ever wanted
 > In one moment
@@ -106,8 +92,6 @@ You may think Buffett's an outlier. Fine. I present exhibit B. Semil Shah interv
 > Or just let it slip?
 >
 > *\- Eminem, Lose Yourself*
-
-Your writing accumulates to form a body of work that builds up your reputation. This body of work also informs anyone about you better than any resume can. Let your work speak for itself. At some point, your reputation precedes you. When that happens, *semper paratus*.
 
 ### Write to learn
 
@@ -132,9 +116,7 @@ Why do I lurk? Impostor syndrome.
 
 Jeff Atwood calls this "[fear of sucking](https://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead/)".
 
-> Mostly, I think it's the fear that gets us, in all its forms. Fear of not achieving. Fear of not keeping up. Fear of looking dumb. Fear of being inadequate. Fear of being exposed. Fear of failure. The only thing preventing us from being awesome is our own fear of sucking.
->
-> *\- Jeff Atwood*
+> Mostly, I think it's the fear that gets us, in all its forms. Fear of not achieving. Fear of not keeping up. Fear of looking dumb. Fear of being inadequate. Fear of being exposed. Fear of failure. The only thing preventing us from being awesome is our own fear of sucking. - Jeff Atwood
 
 My fear is irrational. I look dumb a lot in front of my coworkers. But I'm afraid of being caught a fraud in public.
 
@@ -157,13 +139,11 @@ Why a newsletter? It establishes a bidirectional channel with your readers. They
 There is actually a [psychological principle called consistency](https://www.influenceatwork.com/principles-of-persuasion/#consistency) that drives us to stick to our commitments.
 
 > Consistency is activated by looking for, and asking for, small initial commitments that can be made. In one famous set of studies, researchers found rather unsurprisingly that very few people would be willing to erect an unsightly wooden board on their front lawn to support a Drive Safely campaign in their neighborhood.
->
 > However in a similar neighborhood close by, four times as many homeowners indicated that they would be willing to erect this unsightly billboard. Why? Because ten days previously, they had agreed to place a small postcard in the front window of their homes that signaled their support for a Drive Safely campaign. That small card was the initial commitment that led to a 400% increase in a much bigger but still consistent change.
->
 > *\- Influence at Work*
 
 So, I figured I can use the same trick on myself. This essay is my voluntary, active, and public initial written commitment to write weekly. Setting up the weekly newsletter will identify you, the readers I'm making this commitment to. This will serve as a forcing function to keep me consistent with my commitment.
 
-Patrick McKenzie said it best: "[Don't end the week with nothing.](https://www.notion.so/cyyapye/Writing-is-surviving-395fd1653287403880b63e7dcd2e46b1#13dfa50cee434fc5a4b07d52239b20a5)"Patrick McKenzie said it best: "[Don't end the week with nothing.](https://www.notion.so/cyyapye/Writing-is-surviving-395fd1653287403880b63e7dcd2e46b1#13dfa50cee434fc5a4b07d52239b20a5)"
+Patrick McKenzie said it best: "[Don't end the week with nothing.](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)"
 
-One down. 52 to go. *Gradatim ferociter.*
+One down. 52 to go. *Gradatim ferociter*.
