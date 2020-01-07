@@ -141,6 +141,7 @@ module.exports = {
         cookieDomain: "ycy.pw",
       }
     },
+    'gatsby-plugin-twitter',
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
