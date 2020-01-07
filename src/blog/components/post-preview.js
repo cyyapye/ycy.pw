@@ -17,9 +17,8 @@ export default (props) => (
           to={props.slug}>{props.title}</Link>
       </span>
       <div className="mv3 mb5-ns flex justify-between">
-        <div className="db f6 silver ttu tracked sans-serif">{props.date}</div>
+        <div className="serif f4 lh-copy">{props.description}</div>
       </div>
-      <div className="serif f4 lh-copy">{props.description}</div>
     </div>
   </div>
 )
