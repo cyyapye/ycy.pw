@@ -10,8 +10,9 @@ postImage: /img/manoj-kumar-kasirajan-fazew6xphz8-unsplash.jpg
 ---
 Excel or die. [The carnage Amazon left behind](https://www.businessinsider.com/stores-closing-in-2019-list-2019-3) on its way to become the world’s largest retailer offers a peek into the future of the brutality other industries will endure when a vigorous competitor comes along.
 
-> Every day at Amazon is Day 1... Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1. 
-> *\– Jeff Bezos*
+> Every day at Amazon is Day 1... Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death. And that is why it is always Day 1.
+> 
+> *– Jeff Bezos*
 
 The retailers that managed to survive are those that kept up with the pace of technological change. Target and Walmart succeeded because their engineering teams were able to respond to changes quickly.
 
@@ -31,6 +32,7 @@ Deployment frequency measures how often you "deploy code to production or releas
 The higher the deployment frequency, the higher the throughput of the team. Elite teams deploy 4 times/day. We want to encourage teams to deploy frequently by breaking up work into smaller chunks. The reason is smaller changes are easier to test, easier to reason with, and less risky. But it's important to keep Goodhart's law in mind:
 
 > When a measure becomes a target, it ceases to be a good measure. 
+> 
 > *\- Charles Goodhart*
 
 It's easy to game any metric. For most teams, a story is the smallest unit of value to deploy. I think it should be smaller. Obviously, it'd be counterproductive to deploy a single line of code change every time (boctaoe). The overhead to test something that small seems overkill. A function is the right size. Provides value. Code is easy to review. Easy to spot bugs.
@@ -38,6 +40,7 @@ It's easy to game any metric. For most teams, a story is the smallest unit of va
 I believe the nirvana development environment is one where the line between development and production is non-existent. That is, as soon as the code is committed, the code is deployed to production. This allows an engineer to focus solely on the code that creates value and let the environment take care of everything else. The closest to this that I've seen is [Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2).
 
 > In Dark, we redesign the deployment process to not require these steps. Instead, deployment is trivial. As soon as you write code in the Dark editor, it’s immediately deployed to production, ready to be enabled with a feature flag. There is no long build process, no tarballs, no containers. It’s a simple diff from your editor to our infrastructure. 
+> 
 > *\- Paul Biggar*
 
 **Lead time for changes < 1 day**
@@ -61,7 +64,8 @@ To ensure high availability while moving fast, we need a few more things in plac
 The bulk of the time spent restoring a service is usually in identifying root causes. Inadequate tools hamper the ability to troubleshoot issues efficiently, especially when dealing with a microservice architecture. Logging, metrics, and tracing on their own don't cut it anymore. What's critical is event. An event gives you all three within a context. Context is the most important ingredient when it comes to debugging.
 
 > A system is observable if and only if you can determine the behavior of the system based on its outputs. 
-> *\- Greg Poirier* [Monitoring is Dead](https://speakerdeck.com/grepory/monitoring-is-dead?slide=35)
+> 
+> *\- Greg Poirier*, [Monitoring is Dead](https://speakerdeck.com/grepory/monitoring-is-dead?slide=35)
 
 Outputs here refer to the internal state of the system. This is where context comes in. Context [knits together the metrics, logs, and traces for a single request](https://thenewstack.io/observability-a-3-year-retrospective/). With high cardinality data embedded in the context and proper tooling, we can quickly narrow down an issue to a long running query triggered by a specific user_id. Without either, we have to rely on intuitive leaps and recollection of past incidents to guess at what's happening.
 
@@ -88,6 +92,7 @@ Bonus! There is a fifth metric mentioned in the DORA report: availability. Avail
 Availability target differs for each service. Measuring availability allows us to track whether we are meeting our SLOs. So long as we are meeting SLOs, we are delivering on our promises of how our services behave.
 
 > Availability reflects how well teams define their availability targets, track their current availability, and learn from any outages, making sure their feedback loops are complete. 
+> 
 > *\- Accelerate: State of DevOps 2019*
 
 The good news is better software delivery performance leads to higher availability. In essence, if we excel in the first four metrics, we *almost* get availability for free.
