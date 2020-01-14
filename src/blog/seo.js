@@ -17,6 +17,18 @@ export default props => (
       `}
       render={data => (
         <Helmet>
+          <meta name="description" content={props.description}/>
+          <meta name="image" content={data.site.siteMetadata.siteUrl + props.image}/>
+          <meta property="og:url" content={data.site.siteMetadata.siteUrl + props.slug}/>
+          <meta property="og:type" content="article"/>
+          <meta property="og:title" content={props.title}/>
+          <meta property="og:description" content={props.description}/>
+          <meta property="og:image" content={data.site.siteMetadata.siteUrl + props.image}/>
+          <meta name="twitter:card" content="summary_large_image"/>
+          <meta name="twitter:creator" content="@cyyapye"/>
+          <meta name="twitter:title" content={props.title}/>
+          <meta name="twitter:description" content={props.description}/>
+          <meta name="twitter:image" content={data.site.siteMetadata.siteUrl + props.image}/>
           <script type="application/ld+json">{`
         {
           "@context": "http://schema.org",
