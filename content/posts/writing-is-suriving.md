@@ -21,7 +21,7 @@ At the end of the last decade, I finally understood why I can no longer lurk in 
 ### Anonymity begets mediocrity
 The world is increasingly more networked. As direct channels are formed between us, the cost to reach the masses is now affordable to anyone on the Internet. Before the Internet, you’d have to buy a radio or TV ad to reach millions. Now, you can just throw a chair off your balcony.
 
-With more people gaining reach, there’s a risk of the rest of us who are anonymous getting marginalized. As civilization becomes more complexy, we evolved from hunter-gatherers to a networked civilization. A vertex (a dot) with a low degree (small number of connections) doesn't cut it any more.
+With more people gaining reach, there’s a risk of the rest of us who are anonymous getting marginalized. As civilization becomes more complex, we evolved from hunter-gatherers to a networked civilization. A vertex (a dot) with a low degree (small number of connections) doesn't cut it any more.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The last Chartstravaganza of the decade! … civilization advances<br><br>(<a href="https://twitter.com/necsi?ref_src=twsrc%5Etfw">@necsi</a>) <a href="https://t.co/gFBhQd7MAQ">pic.twitter.com/gFBhQd7MAQ</a></p>&mdash; Plan Maestro (@PlanMaestro) <a href="https://twitter.com/PlanMaestro/status/1211327203381637127?ref_src=twsrc%5Etfw">December 29, 2019</a></blockquote>
 
@@ -32,7 +32,7 @@ But there’s a cost to anonymity. Imagine you’re trying to pick a restaurant 
 So, don’t be the restaurant on the last page. Start writing to build up your network.
 
 ### Build a trust battery grid
-I first heard of the trust battery in [Shane Parish’s interview with Tobi Lutke](https://fs.blog/tobi-lutke/), Shopify CEO and founder. Tobi described the trust battery as a concept to represent the gradient of trust between two people. You start out with say a 50% trust and the battery charges from there as you deliver on your promises. Once the battery is fully charged, you gain full autonomy. But like a real battery, as you fail to keep on your commitments the battery starts to drain.
+I first heard of the trust battery in [Shane Parrish’s interview with Tobi Lutke](https://fs.blog/tobi-lutke/), Shopify CEO and founder. Tobi described the trust battery as a concept to represent the gradient of trust between two people. You start out with say a 50% trust and the battery charges from there as you deliver on your promises. Once the battery is fully charged, you gain full autonomy. But like a real battery, as you fail to keep on your commitments the battery starts to drain.
 
 When you start writing, you’re planting your flag on the Internet. Staking a piece of the influence pie. But pie is the wrong word because influence is not a zero-sum game. No one needs to lose influence for you to gain influence. You gain influence as you gain readers. And your trust battery for each reader starts at maybe 20%.
 
@@ -114,6 +114,8 @@ My fear is irrational. I look dumb a lot in front of my coworkers. But I'm afrai
 So, how did I get over this fear? Survival.
 
 If I don't write, eventually I'll be marginalized in a connected civilization. And that's a threat to my family's survival. That scares me more than anything. And the best way to face fear is to run towards it. Thus, I write or die trying.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Creators often say they&#39;re scared of putting themselves out there. What we tell them:<br><br>Think of the dumb tweets you read last week.<br>Think of the meh paintings.<br>Think of the stupid videos.<br><br>Can&#39;t remember any? Neither will anyone else, about you. Just get started!</p>&mdash; Sahil Lavingia (@shl) <a href="https://twitter.com/shl/status/1217814893723734021?ref_src=twsrc%5Etfw">January 16, 2020</a></blockquote>
 
 ### Work in public
 Producing value is hard. 100x harder than consuming. Because you have to be original. You have to come up with shit. And you have to keep coming up with shit all the time. It takes grit. I have mad respect for people with persistence. My wife told me about a guy she corresponded with, Jeff Jonas, [who never missed a single Ironman at the age of 55](https://www.triathlete.com/2017/11/lifestyle/meet-genius-whos-raced-every-ironman-planet_308094). Blew my mind.
