@@ -42,12 +42,12 @@ Shipping > Perfection
 
 Perfection is a mirage. If you pursue it, death will precede. Perfection leads to paralysis and missed opportunities. An elite team understands this. Speed is the biggest advantage a startup has over incumbents. So, you ship first and iterate after. But this doesn't mean you neglect your craft. Because you are always short on time, you need to focus on what really matters. You ship the most critical functionalities first because they are most valuable to customers. What you ship may even be inconvenient to use. But that's okay. The ability to ship quickly allows you to improve the UX incrementally. This yields a few benefits:
 
-- Gives you a leg up on your competitors because you are first to market. You could be the category leader. In certain industries, that could mean everything.
+* Gives you a leg up on your competitors because you are first to market. You could be the category leader. In certain industries, that could mean everything.
 
 > The category leader wins the easy sales — the order taking — while also-rans must sell hard to win every deal. - David Sacks
 
-- The customers get to benefit (or not) from the basic feature you just shipped. Either way, you get feedback that will inform the decision on further investment or cause changes to the current design.
-- Getting basic functionality into the hands of customers within hours is a huge morale boost for the team. According to [Google re:Work](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/), meaningful and impactful work are 2 of 5 important factors that lead to high performing teams.
+* The customers get to benefit (or not) from the basic feature you just shipped. Either way, you get feedback that will inform the decision on further investment or cause changes to the current design.
+* Getting basic functionality into the hands of customers within hours is a huge morale boost for the team. According to [Google re:Work](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/), meaningful and impactful work are 2 of 5 important factors that lead to high performing teams.
 
 A high frequency, consistent shipping cadence is the lifeblood of an elite team. Missing the cadence is synonymous to stopping an assembly line. It's disheartening. But understanding the impact of the inability to ship, the team would promptly investigate and address the root causes. When the team can't ship, lead time increases and deployment frequency drops. An elite team has seemingly infinite grit and is relentlessly resourceful. There is a collective sense of superiority such that no problem is ever too difficult to solve.
 
@@ -76,16 +76,17 @@ An environment that’s psychologically safe can only be created collectively by
 To feel safe we need to be able to trust each other. Fully. Dr. Brené Brown discovered the best way to build full trust is to be vulnerable.
 
 > Vulnerability is basically uncertainty, risk, and emotional exposure.  
-> - Dr. Brené Brown
+>
+> * Dr. Brené Brown
 
 The phrase Daring Greatly, which is the title of her book, came from Theodore Roosevelt's speech "The Man in the Arena".
 
-> It’s not the critic who counts; not the man who points out how the strong man stumbles or where the doer of deeds could have done them better.  
+> It’s not the critic who counts; not the man who points out how the strong man stumbles or where the doer of deeds could have done them better.\
 > The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly... who at best knows the triumph of high achievement and who at the worst, if he fails, at least fails while daring greatly.
 
 We are afraid to be vulnerable because we were taught to be perfect. I know every parent denies this. But when we are praised for our achievements and performance our belief system starts to evolve. We begin to fear how we will look if we failed. We fear making mistakes because we'll look stupid. We fear disappointing people because we didn't meet their expectations. Years of pleasing, performing, and perfecting eventually keeps us out of the arena.
 
-> Healthy striving is self- focused: How can I improve? Perfectionism is other-focused: What will they think? Perfectionism is a hustle.  
+> Healthy striving is self- focused: How can I improve? Perfectionism is other-focused: What will they think? Perfectionism is a hustle.\
 > Last, perfectionism is not a way to avoid shame. Perfectionism is a form of shame. Where we struggle with perfectionism, we struggle with shame.
 
 [Brene Brown: How vulnerability can make our lives better - Dan Schwable, Forbes](https://www.forbes.com/sites/danschawbel/2013/04/21/brene-brown-how-vulnerability-can-make-our-lives-better/#1fc8342a36c7)
@@ -96,7 +97,9 @@ So, go all in. Lay it all out. Hold nothing back. Fuck it. Embrace the risk. Be 
 
 But full trust only facilitates the flow of unfiltered ideas. Ideas are worthless if we can't critique them. Because then, we can't poke holes in an idea and improve it. For the best ideas to surface, we have to be able to give feedback without hurting feelings. Challenge an idea from the opposite standpoint to strengthen the foundation the idea is built upon. But this isn't easy. People have egos. Feedback given the wrong way bruises ego. And this causes conflict. Then we see the ugly side of each other. From giving feedback on an idea to giving feedback on the behavior of a teammate, we need to be what Kim Scott calls radically candid. When debating ideas, she recommends the Get Stuff Done (GSD) wheel.
 
-[https://mk0radicalcandov3r1t.kinstacdn.com/wp-content/uploads/2016/10/gsd-wheel-1024x915.png](https://mk0radicalcandov3r1t.kinstacdn.com/wp-content/uploads/2016/10/gsd-wheel-1024x915.png)
+![Get Stuff Done Wheel](/img/gsd-wheel-1024x915.png "Get Stuff Done Wheel by Radical Candor")
+
+<https://mk0radicalcandov3r1t.kinstacdn.com/wp-content/uploads/2016/10/gsd-wheel-1024x915.png>
 
 1. First, listen to the idea. Refrain from interrupting. Hold any opinions. Just listen. Intently.
 2. Next, clarify the idea for you and your team members. Repeat what you heard to make sure you fully understood what was said.
