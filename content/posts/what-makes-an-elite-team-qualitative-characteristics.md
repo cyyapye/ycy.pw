@@ -44,7 +44,8 @@ Perfection is a mirage. If you pursue it, death will precede. Perfection leads t
 
 * Gives you a leg up on your competitors because you are first to market. You could be the category leader. In certain industries, that could mean everything.
 
-> The category leader wins the easy sales — the order taking — while also-rans must sell hard to win every deal. - David Sacks
+> The category leader wins the easy sales — the order taking — while also-rans must sell hard to win every deal.  
+> *\- David Sacks*
 
 * The customers get to benefit (or not) from the basic feature you just shipped. Either way, you get feedback that will inform the decision on further investment or cause changes to the current design.
 * Getting basic functionality into the hands of customers within hours is a huge morale boost for the team. According to [Google re:Work](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/), meaningful and impactful work are 2 of 5 important factors that lead to high performing teams.
@@ -77,7 +78,7 @@ To feel safe we need to be able to trust each other. Fully. Dr. Brené Brown dis
 
 > Vulnerability is basically uncertainty, risk, and emotional exposure.  
 >
-> * Dr. Brené Brown
+> *\- Dr. Brené Brown*
 
 The phrase Daring Greatly, which is the title of her book, came from Theodore Roosevelt's speech "The Man in the Arena".
 
@@ -98,8 +99,6 @@ So, go all in. Lay it all out. Hold nothing back. Fuck it. Embrace the risk. Be 
 But full trust only facilitates the flow of unfiltered ideas. Ideas are worthless if we can't critique them. Because then, we can't poke holes in an idea and improve it. For the best ideas to surface, we have to be able to give feedback without hurting feelings. Challenge an idea from the opposite standpoint to strengthen the foundation the idea is built upon. But this isn't easy. People have egos. Feedback given the wrong way bruises ego. And this causes conflict. Then we see the ugly side of each other. From giving feedback on an idea to giving feedback on the behavior of a teammate, we need to be what Kim Scott calls radically candid. When debating ideas, she recommends the Get Stuff Done (GSD) wheel.
 
 ![Get Stuff Done Wheel](/img/gsd-wheel-1024x915.png "Get Stuff Done Wheel by Radical Candor")
-
-<https://mk0radicalcandov3r1t.kinstacdn.com/wp-content/uploads/2016/10/gsd-wheel-1024x915.png>
 
 1. First, listen to the idea. Refrain from interrupting. Hold any opinions. Just listen. Intently.
 2. Next, clarify the idea for you and your team members. Repeat what you heard to make sure you fully understood what was said.
