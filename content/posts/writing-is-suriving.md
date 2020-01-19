@@ -5,7 +5,7 @@ title: Writing is Surviving
 date: 2020-01-06T07:12:38.313Z
 metaDescription: >-
   Why I decided to start writing after decades of lurking in the shadows. And
-  stop fearing sucking.
+  how I got over my fear of sucking.
 postImage: /img/csabi-elter-iidxznru2gy-unsplash.jpg
 ---
 Privacy is like virginity. Once you give it up, there’s no undoing. This is why I’ve been content consuming what others produce all these years. At least that’s what I told myself.
