@@ -3,7 +3,9 @@ templateKey: blog-post
 type: post
 title: What makes an elite team? - Qualitative characteristics
 date: 2020-01-19T20:47:14.926Z
-metaDescription: The qualitative characteristics that make an elite team.
+metaDescription: >-
+  How behavior, shipping, accountability, psychological safety, and learning
+  play a role in the making of an elite team.
 postImage: /img/joshua-newton-rpui6gtn49g-unsplash.jpg
 ---
 Last week, we looked at the [quantitative characteristics](/posts/what-makes-an-elite-team-quantitative-characteristics/) of an elite team. Let's examine what qualitative characteristics an elite team has that enable them to make these numbers.
