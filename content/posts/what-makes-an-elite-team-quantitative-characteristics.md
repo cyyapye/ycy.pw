@@ -96,4 +96,4 @@ It's important to keep in mind, more than half of the engineering teams out ther
 
 So, don't be dismayed if you're not yet part of an elite team. Apparently, many teams made significant improvements in the span of just one year.
 
-The metrics above define what an elite team is from a numbers perspective. But there are key qualitative characteristics that define an elite team that can make these numbers. In my next post, I'll discuss what these are. Stay tuned!
+The metrics above define what an elite team is from a numbers perspective. But there are key [qualitative characteristics that define an elite team](/posts/what-makes-an-elite-team-qualitative-characteristics/) that can make these numbers. In my next post, I'll discuss what these are. Stay tuned!
