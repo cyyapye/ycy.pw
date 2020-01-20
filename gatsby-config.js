@@ -7,10 +7,10 @@ module.exports = {
     ],
     title: "Ye",
     description: "Ye",
-    siteUrl: "https://ycy.pw",
+    siteUrl: "https://cyyapye.com",
     homepageHeader: "Hi There!",
     homepageAbout: "I'm Ye. I like to read, think, and write about software and management. When I'm not reading and writing, I work at BlackBerry Cylance.",
-    mailChimpUrl: "https://ycy.us4.list-manage.com/subscribe/post?u=1900682f18863edf18f4891e3&amp;id=1fae966348",
+    mailChimpUrl: "https://cyyapye.us4.list-manage.com/subscribe/post?u=1900682f18863edf18f4891e3&amp;id=1fae966348",
     mailChimpToken: "b_1900682f18863edf18f4891e3_1fae966348",
     youtube: "", // YOUR YOUTUBE PROFILE HERE
     github: "https://github.com/cyyapye", // YOUR GITHUB PROFILE HERE 
@@ -138,7 +138,7 @@ module.exports = {
         anonymize: true,
         respectDNT: true,
         exclude: ['/success'],
-        cookieDomain: "ycy.pw",
+        cookieDomain: "cyyapye.com",
       }
     },
     'gatsby-plugin-twitter',

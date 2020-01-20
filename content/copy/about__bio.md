@@ -16,4 +16,4 @@ The topics that interest me are software and management. I'm also an amateur inv
 
 I hope you are able to get some value from my posts. What I love most is an opportunity to learn from you. If you have feedback, connect with me on Twitter [@cyyapye](https://twitter.com/cyyapye) or if you have more to say, email me at cyyapye (at) gmail.
 
-Hate polling? [Subscribe to my weekly newsletter](https://ycy.us4.list-manage.com/subscribe/post?u=1900682f18863edf18f4891e3&amp;id=1fae966348) to get my posts in your inbox.
+Hate polling? [Subscribe to my weekly newsletter](https://cyyapye.us4.list-manage.com/subscribe/post?u=1900682f18863edf18f4891e3&amp;id=1fae966348) to get my posts in your inbox.
