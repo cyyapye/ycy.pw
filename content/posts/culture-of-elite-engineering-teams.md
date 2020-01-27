@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 type: post
-title: Culture of elite engineering teams
+title: Culture - Part 1
 date: 2020-01-27T01:31:47.148Z
 metaDescription: >-
   What is culture? How does an elite engineering team behave? What behaviors
