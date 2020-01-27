@@ -87,7 +87,9 @@ As you develop your curiosity, the company stands to benefit remarkably. Why? Be
 
 Momentum creates inertia. Momentum is defined as mass in **motion**. It is the product of a mass and its velocity. So, if a car weighs 4,000lbs and is moving at 35mph or mi/h, we say the car's momentum is 
 
-    4,000lbs x 35mi/h = 140,000lbsmi/h
+```
+4,000lbs x 35mi/h = 140,000lbsmi/h
+```
 
 Don't worry. You won't be quizzed on this later. But I needed to explain momentum so I can explain inertia. Inertia is what we've come across numerous times in our lives.
 
@@ -110,20 +112,17 @@ You are respected for the values you stand for. Not for your likability.
 
 But there's a real danger of forgetting the other component in momentum - the direction. Most organizations today get that we need to have a sense of urgency. We need to be firing on all cylinders. So, we embark on 6 different projects at the same time. We think we're moving fast as we shoot for this.
 
-![Started = finished dream goal](/img/started-eq-finished-chart.png "Started = finished dream goal")
-*Source: [Why limiting work in progress works](https://lethain.com/limiting-wip/) - Will Larson*
+![Started = finished dream goal](/img/started-eq-finished-chart.png "Started = finished dream goal") *Source: [Why limiting work in progress works](https://lethain.com/limiting-wip/) - Will Larson*
 
 But the end result is not quite what you'd expect. You'd see more projects started, but the finished projects remain roughly below the number of developers you have.
 
-![Started > finished reality](/img/started-gt-finished-chart.png "Started > finished reality")
-*Source: [Why limiting work in progress works](https://lethain.com/limiting-wip/) - Will Larson*
+![Started > finished reality](/img/started-gt-finished-chart.png "Started > finished reality") *Source: [Why limiting work in progress works](https://lethain.com/limiting-wip/) - Will Larson*
 
 So, what you need is focus. Focus teams on a handful of initiatives. You'll always have more ideas than projects. When you choose to start all of them, you're sidestepping the hard decision of prioritizing the projects. The end result is a disaster where nothing gets delivered despite everyone working hard.
 
 By limiting the work (projects) in progress, you improve your lead time - the time from your first commit to successful deployment to production. You actually deliver value faster!
 
-![Faster delivery with focus](/img/two-task-two-eng-compare.png "Faster delivery with focus")
-*Source: [Deliver software faster by managing work in progress](https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime) - SoundCloud*
+![Faster delivery with focus](/img/two-task-two-eng-compare.png "Faster delivery with focus") *Source: [Deliver software faster by managing work in progress](https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime) - SoundCloud*
 
 PluralSight even goes as far as limiting their planning horizon. That is, not only do they limit tasks in their Doing column, they also limit the items in the To Do column to just work for the next week or two. Not all their teams do this. But they are [encouraged to do so](https://www.pluralsight.com/tech-blog/engineering-pluralsight-continuously-delivering-value/).
 
