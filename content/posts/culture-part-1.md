@@ -75,7 +75,7 @@ We were born curious. When we were kids, "why" is the most frequently used word 
 
 The best way I've found is to simply read broadly. Literally anything that piques your interest. Because once you're in your area of interest, you may just find the curiosity to learn more. If you like whiskey, read an article about whiskey. See where that takes you. Not too far? Drop it. Switch to another area of interest. Keep going until you find something you can't stop learning about.
 
-There are many ways to explore your interests. Read a tweet. A tweet storm. An article. A postmortem. Subscribe to my newsletter or an engineering blog. Watch [Garry Tan's Vlog](https://www.youtube.com/playlist?list=PLEqsDIi4ezKvrW-hcpLrRtgCiMHJCUZ9r). Listen to [The Knowledge Project](https://fs.blog/the-knowledge-project/). Listen to [The Twenty Minute VC](http://www.thetwentyminutevc.com/). Anything! Just do it.
+There are many ways to explore your interests. Read a tweet. A tweet storm. An article. A postmortem. [Subscribe to my newsletter](https://cyyapye.us4.list-manage.com/subscribe/post?u=1900682f18863edf18f4891e3&amp;id=1fae966348) or an engineering blog. Watch [Garry Tan's Vlog](https://www.youtube.com/playlist?list=PLEqsDIi4ezKvrW-hcpLrRtgCiMHJCUZ9r). Listen to [The Knowledge Project](https://fs.blog/the-knowledge-project/). Listen to [The Twenty Minute VC](http://www.thetwentyminutevc.com/). Anything! Just do it.
 
 Your goal is to be a T-shaped engineer. That is, an engineer with broad knowledge across disciplines and deep skills in your areas of expertise.
 
