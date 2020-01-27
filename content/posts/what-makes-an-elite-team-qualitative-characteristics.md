@@ -128,4 +128,4 @@ If you have been paying close attention, there's one common thread across all le
 
 Having the balls to look silly because we misunderstood a concept and yet the humility to learn from our mistakes when a teammate points it out are what makes us vulnerable, builds trust, creates a psychologically safe environment and makes an elite team.
 
-Next week, I'll write about the culture of elite teams.
+Next week, I'll write about the [culture of elite teams](/posts/culture-part-1).
