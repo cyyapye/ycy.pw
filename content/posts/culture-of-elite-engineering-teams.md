@@ -87,7 +87,7 @@ As you develop your curiosity, the company stands to benefit remarkably. Why? Be
 
 Momentum creates inertia. Momentum is defined as mass in **motion**. It is the product of a mass and its velocity. So, if a car weighs 4,000lbs and is moving at 35mph or mi/h, we say the car's momentum is 
 
-$$4,000lbs \times 35mi/h = 140,000lbsmi/h$$
+    4,000lbs x 35mi/h = 140,000lbsmi/h
 
 Don't worry. You won't be quizzed on this later. But I needed to explain momentum so I can explain inertia. Inertia is what we've come across numerous times in our lives.
 
