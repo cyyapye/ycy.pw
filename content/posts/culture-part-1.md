@@ -75,7 +75,7 @@ We were born curious. When we were kids, "why" is the most frequently used word 
 
 The best way I've found is to simply read broadly. Literally anything that piques your interest. Because once you're in your area of interest, you may just find the curiosity to learn more. If you like whiskey, read an article about whiskey. See where that takes you. Not too far? Drop it. Switch to another area of interest. Keep going until you find something you can't stop learning about.
 
-There are many ways to explore your interests. Read a tweet. A tweet storm. An article. A postmortem. [Subscribe to my newsletter](https://cyyapye.us4.list-manage.com/subscribe/post?u=1900682f18863edf18f4891e3&amp;id=1fae966348) or an engineering blog. Watch [Garry Tan's Vlog](https://www.youtube.com/playlist?list=PLEqsDIi4ezKvrW-hcpLrRtgCiMHJCUZ9r). Listen to [The Knowledge Project](https://fs.blog/the-knowledge-project/). Listen to [The Twenty Minute VC](http://www.thetwentyminutevc.com/). Anything! Just do it.
+There are many ways to explore your interests. Read a tweet. A tweet storm. An article. A postmortem. [Subscribe to my newsletter](https://cyyapye.us4.list-manage.com/subscribe/post?u=1900682f18863edf18f4891e3&id=1fae966348) or an engineering blog. Watch [Garry Tan's Vlog](https://www.youtube.com/playlist?list=PLEqsDIi4ezKvrW-hcpLrRtgCiMHJCUZ9r). Listen to [The Knowledge Project](https://fs.blog/the-knowledge-project/). Listen to [The Twenty Minute VC](http://www.thetwentyminutevc.com/). Anything! Just do it.
 
 Your goal is to be a T-shaped engineer. That is, an engineer with broad knowledge across disciplines and deep skills in your areas of expertise.
 
@@ -154,7 +154,7 @@ There is a subtle but very important difference in our perception that affects h
 
 He further discovered that stressful or traumatic events don't have much predictive power on outcomes. "It's only predictive if there's a negative response."
 
-In other words, implicit in grit is optimism. Knowing there's a light at the end of the tunnel despite all the trail of failures left behind. Because the next attempt might just work. Because the gold might just be an inch away from where you're digging. Because if you don't, who will? This is how you build up your grit. Your resilience. Unrelenting at charging forward towards your goal. Apparently, [relentless has another name](http://relentless.com).
+In other words, implicit in grit is optimism. Knowing there's a light at the end of the tunnel despite the trail of failures left behind. Because the next attempt might just work. Because the gold might just be an inch away from where you're digging. Because if you don't, who will? This is how you build up your grit. Your resilience. Unrelenting at charging forward towards your goal. Apparently, [relentless has another name](http://relentless.com).
 
 > It's hard to beat a person who never gives up.\
 > *\- Babe Ruth*
