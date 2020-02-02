@@ -44,7 +44,7 @@ Perfection is a mirage. If you pursue it, death will precede. Perfection leads t
 
 * Gives you a leg up on your competitors because you are first to market. You could be the category leader. In certain industries, that could mean everything.
 
-> The category leader wins the easy sales — the order taking — while also-rans must sell hard to win every deal.  
+> The category leader wins the easy sales — the order taking — while also-rans must sell hard to win every deal.\
 > *\- David Sacks*
 
 * The customers get to benefit (or not) from the basic feature you just shipped. Either way, you get feedback that will inform the decision on further investment or cause changes to the current design.
@@ -54,7 +54,7 @@ A high frequency, consistent shipping cadence is the lifeblood of an elite team.
 
 ### Accountable
 
-One of the most rewarding aspects of working with an elite team is you get full autonomy. The reason for the autonomy is so the team can make decisions rapidly, unencumbered by elaborate committee approvals. According to the DORA report, companies with > 5,000 employees tend to have elaborate change approval processes. This is one reason why larger companies tend to have lower performing teams (though there are well known exceptions). But with the freedom to exercise judgement comes the accountability for the consequences resulting from the actions of inactions.
+One of the most rewarding aspects of working with an elite team is you get full autonomy. The reason for the autonomy is so the team can make decisions rapidly, unencumbered by elaborate committee approvals. According to the DORA report, companies with > 5,000 employees tend to have elaborate change approval processes. This is one reason why larger companies tend to have lower performing teams (though there are well known exceptions). But with the freedom to exercise judgement comes the accountability for the consequences resulting from the actions or inactions.
 
 Autonomy and accountability are two sides of the same coin.
 
