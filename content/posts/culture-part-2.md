@@ -78,10 +78,10 @@ A trend I’ve seen lately is more SaaS companies are [publishing postmortems pu
 
 # Autonomy & accountability
 
-> If you want to build a ship, don’t drum up the people
-> to gather wood, divide the
-> work, and give orders.
-> Instead, teach them to yearn
+> If you want to build a ship, don’t drum up the people\
+> to gather wood, divide the\
+> work, and give orders.\
+> Instead, teach them to yearn\
 > for the vast and endless sea.\
 > *\- Antoine de Saint-Exupéry, The Little Prince*
 
@@ -148,10 +148,10 @@ What matters is what you communicate. Communicate context, not control. The more
 
 This takes me back to how Tobi Lütke used the metaphor of a trust battery to illustrate the level of trust we have for each other.
 
-The more you’re willing to look stupid in front of your team members
-The more you trust your team members
-The more you’re willing to take a risk on a team member
-The more responsibilities you’re willing to give a team member
+The more you’re willing to look stupid in front of your team members\
+The more you trust your team members\
+The more you’re willing to take a risk on a team member\
+The more responsibilities you’re willing to give a team member\
 The more transparent you are, the fuller your trust battery
 
 If you want to remain competitive, trust your team members. You'll be able to communicate more efficiently. By empowering your team members to make their own decisions, everyone can do more. No one needs to come up with silly rules. Nothing needs to be dummy-proofed. Because you're now working with adults. Autonomous. Accountable. Trustworthy. Adults.
