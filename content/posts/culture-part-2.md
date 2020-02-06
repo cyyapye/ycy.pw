@@ -13,7 +13,7 @@ postImage: /img/hans-eiskonen-qtxwkhzwl6m-unsplash.jpg
 > The single most important thing a boss can do is focus on guidance: giving it, receiving it, and encouraging it.\
 > *\- Kim Scott*
 
-I used to be arguably the most likable person. Even my wife tells me I'm too nice. When I first became a manager, I wanted to be the best manager. I had excellent listening skills. And I could get along with anyone.
+I used to be arguably the most likable person. Even my wife tells me I'm too nice. When I was a noob manager, I wanted to be the best manager. I had excellent listening skills. And I could get along with anyone.
 
 There was an engineer on my team who always did the bare minimum. He wouldn't volunteer to pick up more work even if he could. I wasn't happy about this. But my deep desire to be likable overcame my desire to tell him the truth. So, every time I met with him on our one-on-ones, I'd tell him, "You're doing great." We'd joke around when we bumped into each other at the office. Until one day, I was told the company wasn't doing well that year and we had to layoff some folks. He was on my list. When I broke the news to him, he said, "But you said I was doing great all this time. Why me?"
 
@@ -30,7 +30,7 @@ The quadrants are so simple to understand you know there's only one choice to ma
 > If you can't offer radical candor, the second best thing you can do is be an asshole.\
 > *\- Kim Scott*
 
-I used to think assholes are just that. Like you I had my fair share of experience working with jerks. What I didn't realize until I saw the quadrants was the office jerk actually cared so much that he took the risk and challenged directly! I developed a new appreciation for the office jerk ever since. This is not to say you should hire jerks. That'd be a big mistake. Because it's very difficult to change someone who has no desire to change. Perennial jerks observe Newton's first law of motion.
+I used to think assholes are just that. Like you I had my fair share of experience working with jerks. What I didn't realize until I saw the quadrants was the office jerk actually cared so much that he took the risk and challenged directly! I developed a newfound appreciation for the office jerk ever since. This is not to say you should hire jerks. That'd be a big mistake. Because it's very difficult to change someone who has no desire to change. Perennial jerks observe Newton's first law of motion.
 
 Rather, when someone said something that came across as aggressive, pause for a moment. Suppress your gut reaction to get into a screaming match. Look at it with a different lens. Think about why he felt the need to speak up with such aggression. Why would he be so aggressive? Why did he use such strong words? What was he looking to achieve from doing this?
 
