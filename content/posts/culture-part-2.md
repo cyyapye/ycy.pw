@@ -149,13 +149,9 @@ What matters is what you communicate. Communicate context, not control. The more
 This takes me back to how Tobi Lütke used the metaphor of a trust battery to illustrate the level of trust we have for each other.
 
 The more you’re willing to look stupid in front of your team members
-
 The more you trust your team members
-
 The more you’re willing to take a risk on a team member
-
 The more responsibilities you’re willing to give a team member
-
 The more transparent you are, the fuller your trust battery
 
 If you want to remain competitive, trust your team members. You'll be able to communicate more efficiently. By empowering your team members to make their own decisions, everyone can do more. No one needs to come up with silly rules. Nothing needs to be dummy-proofed. Because you're now working with adults. Autonomous. Accountable. Trustworthy. Adults.
