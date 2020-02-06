@@ -52,7 +52,7 @@ One way to really show your vulnerability is to share your personal feedback pub
 
 Radical candor isn't just for a boss. It needs to be practiced by everyone in the organization so the organization as a whole can improve continuously. Because no one is immune to making mistakes.
 
-Your team mates aren’t idiots. They can smell bullshit from a mile away. So, don’t even try.
+Your teammates aren’t idiots. They can smell bullshit from a mile away. So, don’t even try.
 
 If you accept the fact that you’re indeed working with responsible adults, then there’s really no reason for you not to be radically transparent. To be radically transparent means to go beyond the norms. Ask why can’t you broadcast something rather than should you. Transparency provides the context behind the decisions you make. Your team members need context to buy into your idea. Because context illuminates the path you took to arrive at your decision.
 
