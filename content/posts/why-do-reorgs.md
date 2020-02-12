@@ -57,8 +57,7 @@ Notice how Microsoft changed the org to reflect the product they wanted to build
 
 You can't avoid shipping an org chart. So, pick one that best reflects your product.
 
-**The incentives are misaligned.**
-
+**The incentives are misaligned.**\
 In a functional organization, no one function can be held entirely accountable for the organization's success or failure. When there's a failure, this often turns into a game of finger pointing. Engineering blames Sales. Sales blames Product. Product blames Engineering. You get the idea.
 
 Okay, just go with divisions then. Division has strong accountability from the outset because there is a single neck to choke at the top of the division. Apparently, this is also infamously known as BOL, which stands for butt on line. But even within a division, you could have functional sub-orgs.
@@ -67,14 +66,12 @@ So, how do we solve the problem of misaligned incentives?
 
 Apple, which is perhaps the only large company organized functionally, came up with [Directly Responsible Individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). Each DRI becomes the single neck to choke for a project. And they don't mess around. From [Ben Thompson's post](https://stratechery.com/2013/why-microsofts-reorganization-is-a-bad-idea/), Rob Schoeben was fired for MobileMe, Mark Papermaster was fired for the iPhone 4 antenna, and Richard Williamson was fired for Maps.
 
-**There isn't a clear tie-breaker.**
-
+**There isn't a clear tie-breaker.**\
 At one extreme is the holacracy org structure. There are no managers. Everyone does whatever's deemed best for the company. This is great because decisions can be made very quickly. But when there's a disagreement, there isn't a default tie-breaker. One way to solve this is to combine the circles of accountabilities such that there's a single individual who can make the final call. In a more hierarchical org structure, the natural tie-breaker is whoever the two contesting individuals report up to. She can make a final decision and everyone else will just disagree and commit.
 
 But the question you ought to ask is whether the person in the tie-breaker role is, in fact, the best person to tie break. If not, is there a more suitable person? When product and engineering disagree, who's the best person to tie break? Identify what needs to be decided frequently. Then figure out an org structure where the [maximum number of decisions can be made by an individual](https://a16z.com/2010/08/02/taking-the-mystery-out-of-scaling-a-company/). After that, you can figure out who should run that group.
 
-**The current org structure doesn't scale any more.**
-
+**The current org structure doesn't scale any more.**\
 If you are projecting to double your team in the next 6 months, this would be a good reason to rethink the current org structure. Perhaps there's a severe imbalance in the current org such that a manager has 16 reports. It's generally recognized that beyond 10 reports, a manager begins to feel overburdened. Not all managers can handle 10 reports. Some top out at 5. But it depends on both the manager and the team members. When a manager has 16 reports, he'll spend half the week just doing 1:1s. We'll dive deeper into sizing of an org in a future post.
 
 It's also possible over time due to people leaving the company for you to end up with what's called the I-formation where managers have one direct report. This team is obviously too small to function effectively. The manager is underutilized and the engineer is worked to death. This would be an extreme case. You shouldn't wait until things get to this point before you consider a reorg.
@@ -86,8 +83,7 @@ Equally important is to know the wrong reasons to do a reorg. If you reorg for t
 > All I want to know is where I'm going to die so I'll never go there.\
 > *\- Charlie Munger*
 
-**Company X does this. Just look at how successful they are.**
-
+**Company X does this. Just look at how successful they are.**\
 Emulating the best of breed is often a good idea, if you understand the reasons behind the idea and why it works. Just because Apple is the most valuable company in the world, it doesn't mean you should emulate their org structure. It works for them because they have other components at play that make it work. They are deeply focused on a handful of products at a time.
 
 > We believe in saying no to thousands of projects so that we can really focus on the few that are truly important and meaningful to us.\
@@ -95,8 +91,7 @@ Emulating the best of breed is often a good idea, if you understand the reasons 
 
 So, when you choose to emulate, make sure you understand all the ingredients required to make an idea work. Don't cherry pick the one that appeals to you the most.
 
-**Chasing after the new shiny object.**
-
+**Chasing after the new shiny object.**\
 Zappos is another company highly admired for their innovative culture. In 2013, they began adopting holacracy with hopes to accelerate decision making and eliminate politics. But the experiment didn't go as well as hoped. In 2016, Tony Hsieh decided to accelerate the progress towards eliminating legacy management hierarchy – an organization with no people managers. Employees who didn't buy into the new org structure were offered generous buyout packages to leave. That year, [29% of the staff has turned over](https://fortune.com/longform/zappos-tony-hsieh-holacracy/). The jury is still out on whether holacracy will work at Zappos.
 
 Another company that bought into holacracy was Medium. The experiment at Medium began in 2012. In a post explaining why Medium has decided to move on from holacracy, [Andy Doyle wrote](https://blog.medium.com/management-and-organization-at-medium-2228cc9d93e9#.ukg1xag8n):
@@ -105,8 +100,7 @@ Another company that bought into holacracy was Medium. The experiment at Medium 
 
 Medium still believed holacracy was a positive experience and they would be worse without it.
 
-**Prioritizing individual wants.**
-
+**Prioritizing individual wants.**\
 Will Larson wrote a set of [rules of thumb for org design](https://lethain.com/special-topics-org-design/). And the first one he listed was "Company needs before individual wants". His explanation is so succinct I'm just going to quote him here:
 
 > If you fit heavily on individual asks, you'll end up doing frequent reorganizations as folks' preferences evolve and new folks are added into the organization. Balancing between different folks' wants will create the appearance of politics, and you'll rapidly accumulate organizational debt.
@@ -117,8 +111,7 @@ When you prioritize individual needs, your reorg is bound to fail. Every time.
 > In fact, most every org change I ever saw that didn’t work started off not with a problem statement but with a goal of putting a certain person in charge or a boss-centric perspective of grouping some things together or separating some things.\
 > *\- Steven Sinofsky*
 
-**Solving a personnel problem.**
-
+**Solving a personnel problem.**\
 Along the same veins of prioritizing individual wants, doing a reorg to work around a personnel problem is akin to torturing everyone for the sake of a few. Or perhaps you just lack the courage to do the right thing – fix the personnel instead of fixing the org.
 
 I get it. You have a high performer who was promoted into a position of incompetence. This is also known as [The Peter Principle](https://en.wikipedia.org/wiki/Peter_principle), which is the title of a book written by Dr Laurence Peter and Raymond Hull.
