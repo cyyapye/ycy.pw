@@ -120,7 +120,7 @@ I get it. You have a high performer who was promoted into a position of incompet
 
 On the surface, the principle makes a lot of sense. Except the book was meant to be satire! This makes the principle even more disconcerting because it rings true.
 
-But you can't fix The Peter Principle with a reorg because it's your mistake to own, not the orgs. You recognized Kevin was performing well. So, you assumed he'll do well as a manager. Turns out he's more of a dictator than a manager. But you don't want to lose Kevin because he was so good in his prior role. So, you try to come up with a silly org structure to keep Kevin happy while minimizing the blast radius of the damage he can cause. When you do this, you just became the next personnel problem.
+But you can't fix The Peter Principle with a reorg because it's your mistake to own, not the org's. You recognized Kevin was performing well. So, you assumed he'll do well as a manager. Turns out he's more of a dictator than a manager. But you don't want to lose Kevin because he was so good in his prior role. So, you try to come up with a silly org structure to keep Kevin happy while minimizing the blast radius of the damage he can cause. When you do this, you just became the next personnel problem.
 
 The right approach to a personnel problem is one with [radical candor](/posts/culture-part-2/).
 
