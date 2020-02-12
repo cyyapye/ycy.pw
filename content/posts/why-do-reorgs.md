@@ -60,7 +60,7 @@ You can't avoid shipping an org chart. So, pick one that best reflects your prod
 **The incentives are misaligned.**\
 In a functional organization, no one function can be held entirely accountable for the organization's success or failure. When there's a failure, this often turns into a game of finger-pointing. Engineering blames Sales. Sales blames Product. Product blames Engineering. You get the idea.
 
-Okay, just go with divisions then. Division has strong accountability from the outset because there is a single neck to choke at the top of the division. Apparently, this is also infamously known as BOL, which stands for butt on line. But even within a division, you could have functional sub-orgs.
+Okay, just go with divisions then. A division has strong accountability from the outset because there is a single neck to choke at the top of the division. Apparently, this is also infamously known as BOL, which stands for butt on line. But even within a division, you could have functional sub-orgs.
 
 So, how do we solve the problem of misaligned incentives?
 
