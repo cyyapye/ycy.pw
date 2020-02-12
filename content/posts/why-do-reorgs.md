@@ -30,13 +30,11 @@ Let's explore the first item in this post. We'll discuss the remaining items in 
 There are some very good reasons to do a reorg. But you need to be absolutely clear which ones apply to you. Because what you can't afford is some wishy-washy reason. A reorg inflicts pain and stress on people. The lack of clarity in your reasoning to do a reorg is disrespectful and tells your teammates how much thought you really put into this.
 
 **The current seams are not optimal for the new business strategy.**
-
 Depending on the role you play in your org, sometimes you don't have much say in the reorg. If the reorg is due to a change in business strategy such as a switch to focus on enterprise customers as opposed to consumers, there isn't much you can do about it other than understanding and communicating clearly to your teammates.
 
 A good example of such a reorg is when DuPont went from manufacturing gunpowder to manufacturing paint. During World War I, DuPont grew to become one of the largest companies in the world. Their org structure was built around two functions: sales and manufacturing. After the war, DuPont had to diversify to paint because paint and gunpowder shared a common ingredient: nitrocellulose. But losses soared. This was because sales and manufacturing were at odds with each other. Though the products shared the same ingredient, the markets were completely different. So, DuPont created two divisions instead: a gunpowder division and a paint division. And DuPont [returned to profitability](https://stratechery.com/2013/why-microsofts-reorganization-is-a-bad-idea/).
 
 **Communication is inefficient at the seams.**
-
 Without exception, whenever we talk about reorgs, [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) is brought up. Rightfully so. Conway's Law states that organizations create products that mirror their communication structure. But most people don't dive deeper to fully understand how the law should be used to their advantage. Unfortunately, there's a rule made popular by Steven Sinofsky that when read without context (which we're all prone to do when we're lazy) could contribute to misinterpretation.
 
 > Don't ship the org chart.\
