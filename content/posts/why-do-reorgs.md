@@ -58,7 +58,7 @@ Notice how Microsoft changed the org to reflect the product they wanted to build
 You can't avoid shipping an org chart. So, pick one that best reflects your product.
 
 **The incentives are misaligned.**\
-In a functional organization, no one function can be held entirely accountable for the organization's success or failure. When there's a failure, this often turns into a game of finger pointing. Engineering blames Sales. Sales blames Product. Product blames Engineering. You get the idea.
+In a functional organization, no one function can be held entirely accountable for the organization's success or failure. When there's a failure, this often turns into a game of finger-pointing. Engineering blames Sales. Sales blames Product. Product blames Engineering. You get the idea.
 
 Okay, just go with divisions then. Division has strong accountability from the outset because there is a single neck to choke at the top of the division. Apparently, this is also infamously known as BOL, which stands for butt on line. But even within a division, you could have functional sub-orgs.
 
@@ -89,7 +89,7 @@ Emulating the best of breed is often a good idea, if you understand the reasons 
 > We believe in saying no to thousands of projects so that we can really focus on the few that are truly important and meaningful to us.\
 > *\- Tim Cook*
 
-So, when you choose to emulate, make sure you understand all the ingredients required to make an idea work. Don't cherry pick the one that appeals to you the most.
+So, when you choose to emulate, make sure you understand all the ingredients required to make an idea work. Don't cherry-pick the one that appeals to you the most.
 
 **Chasing after the new shiny object.**\
 Zappos is another company highly admired for their innovative culture. In 2013, they began adopting holacracy with hopes to accelerate decision making and eliminate politics. But the experiment didn't go as well as hoped. In 2016, Tony Hsieh decided to accelerate the progress towards eliminating legacy management hierarchy – an organization with no people managers. Employees who didn't buy into the new org structure were offered generous buyout packages to leave. That year, [29% of the staff has turned over](https://fortune.com/longform/zappos-tony-hsieh-holacracy/). The jury is still out on whether holacracy will work at Zappos.
