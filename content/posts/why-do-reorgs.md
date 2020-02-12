@@ -71,7 +71,7 @@ At one extreme is the holacracy org structure. There are no managers. Everyone d
 
 But the question you ought to ask is whether the person in the tie-breaker role is, in fact, the best person to tie break. If not, is there a more suitable person? When product and engineering disagree, who's the best person to tie break? Identify what needs to be decided frequently. Then figure out an org structure where the [maximum number of decisions can be made by an individual](https://a16z.com/2010/08/02/taking-the-mystery-out-of-scaling-a-company/). After that, you can figure out who should run that group.
 
-**The current org structure doesn't scale any more.**\
+**The current org structure doesn't scale anymore.**\
 If you are projecting to double your team in the next 6 months, this would be a good reason to rethink the current org structure. Perhaps there's a severe imbalance in the current org such that a manager has 16 reports. It's generally recognized that beyond 10 reports, a manager begins to feel overburdened. Not all managers can handle 10 reports. Some top out at 5. But it depends on both the manager and the team members. When a manager has 16 reports, he'll spend half the week just doing 1:1s. We'll dive deeper into sizing of an org in a future post.
 
 It's also possible over time due to people leaving the company for you to end up with what's called the I-formation where managers have one direct report. This team is obviously too small to function effectively. The manager is underutilized and the engineer is worked to death. This would be an extreme case. You shouldn't wait until things get to this point before you consider a reorg.
