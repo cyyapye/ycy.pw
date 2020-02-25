@@ -16,14 +16,14 @@ For any goal to be meaningful, it has to be defined clearly before changes are m
 
 When defining goals, we all know to ensure they are specific, measurable, attainable, relevant, and time-based (SMART). But the typical SMART goal doesn’t cut it here. The reason is a SMART goal is missing two critical components:
 
-- **Baseline** - A baseline allows anyone with minimal understanding of the goal to quickly determine how well you’re doing against the goal by simply comparing the current measurement against the baseline or how meaningful is your goal by comparing the target with the baseline.
-- **Trend** - A trend provides the current direction of a metric. This helps folks understand the urgency and importance of meeting the goal, especially if the trend is headed in the wrong direction. Otherwise, the trend will continue. The historical trend also indicates the level of difficulty to achieve the goal.
+* **Baseline** - A baseline allows anyone with minimal understanding of the goal to quickly determine how well you’re doing against the goal by simply comparing the current measurement against the baseline or how meaningful is your goal by comparing the target with the baseline.
+* **Trend** - A trend provides the current direction of a metric. This helps folks understand the urgency and importance of meeting the goal, especially if the trend is headed in the wrong direction. Otherwise, the trend will continue. The historical trend also indicates the level of difficulty to achieve the goal.
 
 I highly recommend reading Will Larson’s piece on [defining meaningful goals](https://lethain.com//goals-and-baselines/).
 
 So, how do we decide what to measure in a reorg? Because goals for reorg vary, there isn’t a one-size-fits-all metric. But I can think of some examples. If your goal is to improve the customer experience by making your product seamless, one metric might be the number of clicks to get to your destination.
 
-![Choosing%20an%20Org%20Structure/Untitled.png](Choosing%20an%20Org%20Structure/Untitled.png)
+![ADP Logins](/img/adp-logins.png "ADP Logins")
 
 [ADP login screen](https://www.adp.com/logins.aspx)
 
@@ -68,83 +68,83 @@ Most org structures are variations of functional or divisional orgs. Let's exami
 
 **Functional Org Structure**
 
-![Choosing%20an%20Org%20Structure/Untitled%201.png](Choosing%20an%20Org%20Structure/Untitled%201.png)
+![Functional Org](/img/org-functional.png "Functional Org")
 
 The functional org structure groups individuals by their functions. The groups form departments. Some functions such as legal, finance, and HR naturally fall into this sort of org structure. These functions are usually corporate functions that are common across the company.
 
 **Pros**
 
-- There are clear roles, responsibilities, and lines of command.
-- The functional focus encourages development of deep expertise within the function due to the tighter collaboration among functional members.
+* There are clear roles, responsibilities, and lines of command.
+* The functional focus encourages development of deep expertise within the function due to the tighter collaboration among functional members.
 
 **Cons**
 
-- The narrow focus of each function can result in silos.
-- The line of command can take precedence over collaboration between departments.
-- There isn't a clear Directly Responsible Individual (DRI) for a project or product. Some organizations assign a Product Manager or a Program Manager (à la Microsoft) as the DRI that will ensure the delivery and success of a project.
+* The narrow focus of each function can result in silos.
+* The line of command can take precedence over collaboration between departments.
+* There isn't a clear Directly Responsible Individual (DRI) for a project or product. Some organizations assign a Product Manager or a Program Manager (à la Microsoft) as the DRI that will ensure the delivery and success of a project.
 
 Apple is the best known example of a large functional org. They came up with DRIs to address the issue of a lack of accountability.
 
 **Divisional - Product Org Structure**
 
-![Choosing%20an%20Org%20Structure/Untitled%202.png](Choosing%20an%20Org%20Structure/Untitled%202.png)
+![Divisional - Product org](/img/org-divisional-product.png "Divisional - Product org")
 
 In a product divisional org structure, individuals are organized by product. Here's the kicker: beneath each product, you likely have a functional suborg. So, you can think of this as really just a multiple of functional orgs under one roof. But each functional org is dedicated to a product (can be one or more related products).
 
 **Pros**
 
-- There's one neck to choke for each product division.
-- There are clear roles, responsibilities, and lines of command.
-- Each product can move independent of another, potentially increasing speed of iteration. For example, cloud based services iterate a lot faster than hardware products.
+* There's one neck to choke for each product division.
+* There are clear roles, responsibilities, and lines of command.
+* Each product can move independent of another, potentially increasing speed of iteration. For example, cloud based services iterate a lot faster than hardware products.
 
 **Cons**
 
-- Lack of cross-pollination of knowledge across products can lead to silos and duplicate efforts.
-- Dedicated resources under each product division can discourage cross-product collaboration. Rather it encourages fierce rivalry when it comes to resource claims, especially shared resources.
+* Lack of cross-pollination of knowledge across products can lead to silos and duplicate efforts.
+* Dedicated resources under each product division can discourage cross-product collaboration. Rather it encourages fierce rivalry when it comes to resource claims, especially shared resources.
 
 Microsoft is an example of a product divisional org. Comprised of three segments that provide business products and services, enterprise cloud software and services, and consumer software and products.
 
 **Divisional - Market Org Structure**
 
-![Choosing%20an%20Org%20Structure/Untitled%203.png](Choosing%20an%20Org%20Structure/Untitled%203.png)
+![Divisional - Market org](/img/org-divisional-market.png "Divisional - Market org")
 
 Market divisional org structures are well suited for companies that serve multiple markets that require different types of products and services. By segmenting the markets, each division can develop distinct sales, marketing, and product strategies to best serve the segment. Like the product divisional org structure, a market divisional org shares many of the same pros and cons.
 
 **Pros**
 
-- There's one neck to choke for each market division.
-- There are clear roles, responsibilities, and lines of command.
-- Each market division can offer distinctive products and services for the market it serves.
+* There's one neck to choke for each market division.
+* There are clear roles, responsibilities, and lines of command.
+* Each market division can offer distinctive products and services for the market it serves.
 
 **Cons**
 
-- Lack of cross-pollination of knowledge across markets can lead to silos and duplicate efforts.
-- Dedicated resources under each market division can encourage fierce rivalry when competing for shared resources.
+* Lack of cross-pollination of knowledge across markets can lead to silos and duplicate efforts.
+* Dedicated resources under each market division can encourage fierce rivalry when competing for shared resources.
 
 Banks like JPMorgan Chase are typically organized by market segments: corporate and consumer. Corporate customers have very different needs ranging from payroll and retirement plans to underwriting services. Consumers, on the other hand, need checking and savings accounts, and credit cards.
 
 **Divisional - Geographic Org Structure**
 
-![Choosing%20an%20Org%20Structure/Untitled%204.png](Choosing%20an%20Org%20Structure/Untitled%204.png)
+![Divisional - Geographic org](/img/org-divisional-geo.png "Divisional - Geographic org")
 
 Companies with a global footprint usually end up with a geographic divisional org structure. This is most prevalent in companies with products that are regulated or require different go-to-market strategies for different regions.
 
 **Pros**
 
-- There's one neck to choke for each market division.
-- There are clear roles, responsibilities, and lines of command.
-- Each geographic division can develop a distinct go-to-market strategy for the geographic region it serves.
+* There's one neck to choke for each market division.
+* There are clear roles, responsibilities, and lines of command.
+* Each geographic division can develop a distinct go-to-market strategy for the geographic region it serves.
 
 **Cons**
 
-- Lack of cross-pollination of knowledge across geographies can lead to silos and duplicate efforts.
-- Dedicated resources under each geographic division can create a hostile corporate environment due to competition.
+* Lack of cross-pollination of knowledge across geographies can lead to silos and duplicate efforts.
+* Dedicated resources under each geographic division can create a hostile corporate environment due to competition.
 
 Automotive companies such as Honda, Toyota, and Ford tend to be geographically organized because they depend on efficient sourcing of parts for assembly. Also, in some countries, foreign ownership of domestic entities is restricted (Qatar restricts foreign ownership of listed companies to 49%). Having a geographic division allows the division to get acclimated to the local environment and policies.
 
 **Matrix Org Structure**
 
-![Choosing%20an%20Org%20Structure/Untitled%205.png](Choosing%20an%20Org%20Structure/Untitled%205.png)
+![Matrix org](/img/org-matrix.png "Matrix org")
 
 84% of orgs were matrixed to some extent according to a [Gallup survey of 4,000 employees in 2015](https://www.mckinsey.com/business-functions/organization/our-insights/revisiting-the-matrix-organization) . In fact, this was predicted back in May 1978 in a Harvard Business Review article titled [Problems of Matrix Organizations](https://hbr.org/1978/05/problems-of-matrix-organizations).
 
@@ -154,17 +154,17 @@ In a matrix org, people with the same function report up to a functional manager
 
 **Pros**
 
-- Employees have both functional responsibilities and product responsibilities.
-- Cross-functional teams collaborate on the same product minimizing silos.
+* Employees have both functional responsibilities and product responsibilities.
+* Cross-functional teams collaborate on the same product minimizing silos.
 
 **Cons**
 
-- The presence of two axes of reporting lines creates both confusion about responsibilities and a power struggle between the product and functional manager. The confusion and power struggle lead to a complete dysfunction of a product team.
-- Without clear definition of responsibilities and authority over decisions, a matrix product team can succumb to navel gazing. If decisions need to be surfaced to the functional manager for clearing, team members are effectively blocked.
+* The presence of two axes of reporting lines creates both confusion about responsibilities and a power struggle between the product and functional manager. The confusion and power struggle lead to a complete dysfunction of a product team.
+* Without clear definition of responsibilities and authority over decisions, a matrix product team can succumb to navel gazing. If decisions need to be surfaced to the functional manager for clearing, team members are effectively blocked.
 
 Given the problems that come with the matrix org, why is it so seductively popular? It's because the pros outweigh the cons. And the cons can be solved. One company that took the traditional matrix org, flipped it on its head and made it wildly successful is Spotify. 
 
-![Choosing%20an%20Org%20Structure/Untitled%206.png](Choosing%20an%20Org%20Structure/Untitled%206.png)
+![Spotify squads](/img/spotify-squads.png "Spotify squads")
 
 Source: [Spotify Scaling](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf)
 
@@ -174,26 +174,26 @@ Spotify's way is not the only way to address the shortcomings of a matrix org. B
 
 **Flat Org Structure**
 
-![Choosing%20an%20Org%20Structure/Untitled%207.png](Choosing%20an%20Org%20Structure/Untitled%207.png)
+![Flat org](/img/org-flat.png "Flat org")
 
 Decisions are made rapidly in a flat org structure because individuals are given full autonomy to do what's best for the company. This org structure is also the most popular among early-stage startups. Early on, the manager layer could be completely non-existent, in which case, all engineers report to a single manager (up to the managers' capacity). This structure is also the most effective for shipping quickly. It is this stage of life of a startup that is the most rewarding and fondly remembered.
 
 **Pros**
 
-- Individuals are not only entrusted but also expected to make high impact decisions.
-- Responsibilities are so broad they can span other functions. But this is also what excites the team members.
+* Individuals are not only entrusted but also expected to make high impact decisions.
+* Responsibilities are so broad they can span other functions. But this is also what excites the team members.
 
 **Cons**
 
-- This structure doesn't scale very well beyond hundreds of employees because it is challenging to coordinate large initiatives that span multiple teams without clear accountability.
-- When a tiebreaker is needed, information needs to be surfaced to the CEO for a final decision, drastically slowing down decision making.
-- Unless career paths are clearly defined, as the company grows employees may be confused about how they can advance in their careers.
+* This structure doesn't scale very well beyond hundreds of employees because it is challenging to coordinate large initiatives that span multiple teams without clear accountability.
+* When a tiebreaker is needed, information needs to be surfaced to the CEO for a final decision, drastically slowing down decision making.
+* Unless career paths are clearly defined, as the company grows employees may be confused about how they can advance in their careers.
 
 There are two highly successful companies I know that operate with a flat structure: Basecamp (maker of Basecamp) and Valve (maker of Half-Life and Counter-Strike). Basecamp is currently at 50 employees. Basecamp's enviable product and no-bullshit, simple, yet highly productive culture won them a massive following of admirers. Their [employee handbook](https://basecamp.com/handbook) appendices lay out the titles and responsibilities for each career path. There are leads or managers on each team to drive projects to completion and handle the people management aspect. Because of the small team size, the individual team members are expected to be self-directed more so than in a typical organization setting.
 
 Valve has 360 employees. Their products need no introduction. More intriguing is how, in the absence of no managers, a group of over 300 managed to produce hit after hit. Valve also publishes its somewhat [hilarious employee handbook](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf). Valve has an interesting setup that stemmed from their experience building their first hit, Half-Life.
 
-> In the end, we came to the conclusion that this ideal person [godlike game designer] didn’t actually exist. Instead, we would create our own ideal by combining the strengths of a cross-section of the company, putting them together in a group we called the "Cabal."
+> In the end, we came to the conclusion that this ideal person \[godlike game designer] didn’t actually exist. Instead, we would create our own ideal by combining the strengths of a cross-section of the company, putting them together in a group we called the "Cabal."
 
 Employees are grouped into [cabals or teams of 12 or more people](https://www.gamasutra.com/view/feature/131815/the_cabal_valves_design_process_.php?page=2). Each cabal is responsible for designing and building parts of a game. Team members move their desks on wheels to the cabals they want to join. But not all is rosy at Valve. In 2013, former employee, [Jeri Ellsworth, said in a podcast](https://www.wired.com/2013/07/wireduk-valve-jeri-ellsworth/):
 
@@ -215,7 +215,7 @@ The largest company that still runs as a flat org is W. L. Gore, the company bes
 
 **Holacracy**
 
-![Choosing%20an%20Org%20Structure/Untitled%208.png](Choosing%20an%20Org%20Structure/Untitled%208.png)
+![Holacracy circles](/img/holacracy-circles.png "Holacracy circles")
 
 Source: [Holacracy, Explained](https://www.blinkist.com/magazine/posts/holacracy-explained)
 
@@ -225,19 +225,19 @@ At a high level, a holacracy org is made up of a company circle with circles wit
 
 **Pros**
 
-- Decisions are pushed to self-organizing teams so that they can be made as fast at possible. No need for running a decision up a flagpole.
-- Individuals are truly empowered (through authority bestowed on the role) to make decisions and take actions that are believed to be aligned with the purpose outlined for the role.
-- There is no confusion about the accountabilities of each individual because they are fully defined by the role(s) of the individual.
-- Holacracy constitution describes in detail how the org should self-govern and run. This eliminates confusion and disarray that typically arise from the less formal flat org structure.
+* Decisions are pushed to self-organizing teams so that they can be made as fast at possible. No need for running a decision up a flagpole.
+* Individuals are truly empowered (through authority bestowed on the role) to make decisions and take actions that are believed to be aligned with the purpose outlined for the role.
+* There is no confusion about the accountabilities of each individual because they are fully defined by the role(s) of the individual.
+* Holacracy constitution describes in detail how the org should self-govern and run. This eliminates confusion and disarray that typically arise from the less formal flat org structure.
 
 **Cons**
 
-- The misuse of circles by layering sub-circles with different individuals holding different roles in the sub-circles can end up recreating the very bureaucracy holacracy is meant to eliminate.
-- Gaining alignment for large scale initiatives is difficult due to a lack of hierarchy especially when it requires coordination across many circles. This is a challenge even in traditional hierarchy.
-- The holacracy constitution is complex. There are a lot of rules to learn in order to function effectively in a holacracy org. [Bud Caddell](https://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/), a management consultant who advised Zappos on their holacracy rollout said, "The average employee is already overworked and undertrained; asking them to learn the management equivalent of Dungeons and Dragons on top of their workload is foolish, if not inhumane."
-- The vast majority of talent today don't have experience working at a holacracy org. The misconception of holacracy propagated by the media may cause talent to avoid holacracy orgs. This could lead to challenges in recruiting.
-- The lack of a feedback mechanism traditionally carried out by managers in holacracy org presents a problem when it comes to improving performance of individuals. Radically candid feedback and one-on-one sessions are the most effective tools to improve individual performance.
-- Because an individual can play multiple roles, even unrelated roles, career progression and compensation become murky. How should you pay someone who writes code and designs marketing strategy?
+* The misuse of circles by layering sub-circles with different individuals holding different roles in the sub-circles can end up recreating the very bureaucracy holacracy is meant to eliminate.
+* Gaining alignment for large scale initiatives is difficult due to a lack of hierarchy especially when it requires coordination across many circles. This is a challenge even in traditional hierarchy.
+* The holacracy constitution is complex. There are a lot of rules to learn in order to function effectively in a holacracy org. [Bud Caddell](https://qz.com/849980/zappos-is-struggling-with-holacracy-because-humans-arent-designed-to-operate-like-software/), a management consultant who advised Zappos on their holacracy rollout said, "The average employee is already overworked and undertrained; asking them to learn the management equivalent of Dungeons and Dragons on top of their workload is foolish, if not inhumane."
+* The vast majority of talent today don't have experience working at a holacracy org. The misconception of holacracy propagated by the media may cause talent to avoid holacracy orgs. This could lead to challenges in recruiting.
+* The lack of a feedback mechanism traditionally carried out by managers in holacracy org presents a problem when it comes to improving performance of individuals. Radically candid feedback and one-on-one sessions are the most effective tools to improve individual performance.
+* Because an individual can play multiple roles, even unrelated roles, career progression and compensation become murky. How should you pay someone who writes code and designs marketing strategy?
 
 The best known large company that has a holaracy structure is Zappos which has about 1,500 employees. Medium had reportedly somewhere between 50 and 150 employees at the time it [gave up on holacracy](https://medium.com/the-story/management-and-organization-at-medium-2228cc9d93e9).
 
