@@ -6,7 +6,7 @@ date: 2020-03-02T16:13:22.862Z
 metaDescription: >-
   What is the optimal team size? How does size affect team performance? What is
   the right team make-up?
-postImage: /img/andrea-sonda-nw2h5tahr4i-unsplash.jpg
+postImage: /img/annie-spratt-hcb3lib8l8e-unsplash.jpg
 ---
 When it comes to choosing the right team size, most folks I've spoken with seem to know the natural upper bound. Perhaps this is due to the popular phrase "two-pizza team" coined by Jeff Bezos. 
 
@@ -19,9 +19,9 @@ But, is what Bezos said true?
 
 According to the late J. Richard Hackman, the Edgar Pierce Professor of Social and Organization Psychology at Harvard University, one of the [five conditions for a great performing team](https://hbswk.hbs.edu/archive/leading-teams-setting-the-stage-for-great-performances-the-five-keys-to-successful-teams) is team structure. A good team structure is defined by:
 
-- a stable team membership (team membership is not in flux so team members can gel)
-- a clear, challenging, consequential direction for the team (well defined areas of responsibility with real risks and rewards that empower the team)
-- a right-sized, heterogenous team (6 - 9 team members who don't always think alike because conflict spurs excellence)
+* a stable team membership (team membership is not in flux so team members can gel)
+* a clear, challenging, consequential direction for the team (well defined areas of responsibility with real risks and rewards that empower the team)
+* a right-sized, heterogenous team (6 - 9 team members who don't always think alike because conflict spurs excellence)
 
 > My rule of thumb is that no work team should have membership in the double digits, and my preferred size is six.\
 > *\- J. Richard Hackman*
@@ -35,20 +35,20 @@ Hmm... Doesn't that sound like Bezos' two-pizza rule? But why 6 - 9?
 
 Turns out the exponential increase in performance problems is due to the cost of coordination. The more people you have the more links between them.
 
-$$links = \dfrac{n(n - 1)}{2}$$
+![Team size links formula](/img/team-size-links-formula.png "Team size links formula")
 
 A quick illustration:
 
-- A team of 8 has **28** links
-- A team of 10 has **45** links
-- A team of 12 has **66** links
-- A team of 16 has **120** links
+* A team of 8 has **28** links
+* A team of 10 has **45** links
+* A team of 12 has **66** links
+* A team of 16 has **120** links
 
 With more people in a group, it takes more time and effort to get on the same page. It takes even longer to get buy-in.
 
 If a team gets large enough, the [Ringelmann effect](https://en.wikipedia.org/wiki/Ringelmann_effect) starts to set in. In the 1890s, Maximilien Ringelmann was a French agricultural engineer that discovered a phenomenon where the magnitude of an individual's contribution to completing a task decreases as the size of a group increases. This is illustrated in a tug of war.
 
-> [Ringelmann] made people pull on ropes separately and in groups, and he measured and compared how hard they pulled. After collecting the results he realized that members of a group tended to exert less effort in pulling a rope than did individuals alone.
+> \[Ringelmann] made people pull on ropes separately and in groups, and he measured and compared how hard they pulled. After collecting the results he realized that members of a group tended to exert less effort in pulling a rope than did individuals alone.
 
 The more people on the rope, the lower the performance of each person because of their tendency to feel their own effort is not critical. This loss of motivation to perform is also known as [social loafing](https://en.wikipedia.org/wiki/Social_loafing).
 
