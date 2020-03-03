@@ -21,7 +21,7 @@ According to the late J. Richard Hackman, the Edgar Pierce Professor of Social a
 
 * a stable team membership (team membership is not in flux so team members can gel)
 * a clear, challenging, consequential direction for the team (well defined areas of responsibility with real risks and rewards that empower the team)
-* a right-sized, heterogenous team (6 - 9 team members who don't always think alike because conflict spurs excellence)
+* a right-sized, heterogeneous team (6 - 9 team members who don't always think alike because conflict spurs excellence)
 
 > My rule of thumb is that no work team should have membership in the double digits, and my preferred size is six.\
 > *\- J. Richard Hackman*
