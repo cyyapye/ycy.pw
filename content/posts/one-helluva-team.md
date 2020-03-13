@@ -46,49 +46,49 @@ But the handwritten messages inside really got me emotional. We have offices spr
 
 I’ve long learned what you say about someone also reveal a lot about you. I hope you can get a glimpse into the team I worked with.
 
-![One%20Helluva%20Team/msg-01.jpg](One%20Helluva%20Team/msg-01.jpg)
+![Helluva msg 01](/img/helluva-msg-01.jpg "Helluva msg 01")
 
-![One%20Helluva%20Team/msg-02.jpg](One%20Helluva%20Team/msg-02.jpg)
+![Helluva msg 02](/img/helluva-msg-02.jpg "Helluva msg 02")
 
-![One%20Helluva%20Team/msg-03.jpg](One%20Helluva%20Team/msg-03.jpg)
+![Helluva msg 03](/img/helluva-msg-03.jpg "Helluva msg 03")
 
-![One%20Helluva%20Team/msg-04.jpg](One%20Helluva%20Team/msg-04.jpg)
+![Helluva msg 04](/img/helluva-msg-04.jpg "Helluva msg 04")
 
-![One%20Helluva%20Team/msg-05.jpg](One%20Helluva%20Team/msg-05.jpg)
+![Helluva msg 05](/img/helluva-msg-05.jpg "Helluva msg 05")
 
-![One%20Helluva%20Team/msg-06.jpg](One%20Helluva%20Team/msg-06.jpg)
+![Helluva msg 06](/img/helluva-msg-06.jpg "Helluva msg 06")
 
-![One%20Helluva%20Team/msg-07.jpg](One%20Helluva%20Team/msg-07.jpg)
+![Helluva msg 07](/img/helluva-msg-07.jpg "Helluva msg 07")
 
-![One%20Helluva%20Team/msg-08.jpg](One%20Helluva%20Team/msg-08.jpg)
+![Helluva msg 08](/img/helluva-msg-08.jpg "Helluva msg 08")
 
-![One%20Helluva%20Team/msg-09.jpg](One%20Helluva%20Team/msg-09.jpg)
+![Helluva msg 09](/img/helluva-msg-09.jpg "Helluva msg 09")
 
-![One%20Helluva%20Team/msg-10.jpg](One%20Helluva%20Team/msg-10.jpg)
+![Helluva msg 10](/img/helluva-msg-10.jpg "Helluva msg 10")
 
-![One%20Helluva%20Team/msg-11.jpg](One%20Helluva%20Team/msg-11.jpg)
+![Helluva msg 11](/img/helluva-msg-11.jpg "Helluva msg 11")
 
-![One%20Helluva%20Team/msg-12.jpg](One%20Helluva%20Team/msg-12.jpg)
+![Helluva msg 12](/img/helluva-msg-12.jpg "Helluva msg 12")
 
-![One%20Helluva%20Team/msg-13.jpg](One%20Helluva%20Team/msg-13.jpg)
+![Helluva msg 13](/img/helluva-msg-13.jpg "Helluva msg 13")
 
-![One%20Helluva%20Team/msg-14.jpg](One%20Helluva%20Team/msg-14.jpg)
+![Helluva msg 14](/img/helluva-msg-14.jpg "Helluva msg 14")
 
-![One%20Helluva%20Team/msg-15.jpg](One%20Helluva%20Team/msg-15.jpg)
+![Helluva msg 15](/img/helluva-msg-15.jpg "Helluva msg 15")
 
-![One%20Helluva%20Team/msg-16.jpg](One%20Helluva%20Team/msg-16.jpg)
+![Helluva msg 16](/img/helluva-msg-16.jpg "Helluva msg 16")
 
-![One%20Helluva%20Team/msg-17.jpg](One%20Helluva%20Team/msg-17.jpg)
+![Helluva msg 17](/img/helluva-msg-17.jpg "Helluva msg 17")
 
-![One%20Helluva%20Team/msg-18.jpg](One%20Helluva%20Team/msg-18.jpg)
+![Helluva msg 18](/img/helluva-msg-18.jpg "Helluva msg 18")
 
-![One%20Helluva%20Team/msg-19.jpg](One%20Helluva%20Team/msg-19.jpg)
+![Helluva msg 19](/img/helluva-msg-19.jpg "Helluva msg 19")
 
-![One%20Helluva%20Team/msg-20.jpg](One%20Helluva%20Team/msg-20.jpg)
+![Helluva msg 20](/img/helluva-msg-20.jpg "Helluva msg 20")
 
-![One%20Helluva%20Team/msg-21.jpg](One%20Helluva%20Team/msg-21.jpg)
+![Helluva msg 21](/img/helluva-msg-21.jpg "Helluva msg 21")
 
-![One%20Helluva%20Team/msg-22.jpg](One%20Helluva%20Team/msg-22.jpg)
+![Helluva msg 22](/img/helluva-msg-22.jpg "Helluva msg 22")
 
 Someone I have tremendous respect for once said to me:
 
