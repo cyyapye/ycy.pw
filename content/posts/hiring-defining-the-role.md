@@ -78,13 +78,13 @@ With a mission written, we can now define the outcomes that need to be true for 
 
 Here are some examples:
 
-- Improve shipping cadence to production from once a month to at least once a day by end of H1.
-    - Deployment of the monolith can be performed during the day without impact to live traffic.
-    - Deployment is fully automated and can be accomplished by a single engineer.
+1. Improve shipping cadence to production from once a month to at least once a day by end of H1.
+  - Deployment of the monolith can be performed during the day without impact to live traffic.
+  - Deployment is fully automated and can be accomplished by a single engineer.
 
-- Reduce cycle time (commit-to-production time) from 3 days to 1 hour or less by Q4 2020.
+2. Reduce cycle time (commit-to-production time) from 3 days to 1 hour or less by Q4 2020.
 
-- Reduce failure rate per deployment from 34% to under 10% by Q1 2021.
+3. Reduce failure rate per deployment from 34% to under 10% by Q1 2021.
 
 With clearly defined mission objectives, you can link them to company objectives. This ensures alignment of the role’s objectives with the company’s.
 
